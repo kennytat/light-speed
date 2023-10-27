@@ -24,7 +24,7 @@ from tfloader import load_tfdata
 #### COMMAND LINE ARGUMENTS ####
 parser = ArgumentParser()
 parser.add_argument("--config", type=str, default="config.json")
-parser.add_argument("--tfdata", type=str, default="data/tfdata")
+parser.add_argument("--tfdata", type=str, default="tfdata")
 parser.add_argument("--log-dir", type=Path, default="logs")
 parser.add_argument("--ckpt-dir", type=Path, default="ckpts")
 parser.add_argument("--batch-size", type=int, default=16)

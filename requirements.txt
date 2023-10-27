@@ -1,0 +1,16 @@
+# TTS
+torch
+regex
+## Train MFA + TF
+tensorflow
+numpy
+tqdm
+librosa
+numba
+pgvector
+pynini
+hdbscan
+git+https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner.git
+## Train duration
+transformers
+torch_ema
