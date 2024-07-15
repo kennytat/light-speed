@@ -1,5 +1,5 @@
 import torch  # isort:skip
-
+import os
 torch.manual_seed(42)
 import json
 import re
@@ -10,14 +10,15 @@ import gradio as gr
 import numpy as np
 import regex
 
-from models import DurationNet, SynthesizerTrn
-
+from models import DurationNet, SynthesizerTrn	
+	
 title = "LightSpeed: Vietnamese Male Voice TTS"
 description = "Vietnam Male Voice TTS."
-config_file = "model/tts/vn_han_male/config.json"
-duration_model_path = "model/tts/vn_han_male/duration_model.pth"
-lightspeed_model_path = "model/tts/vn_han_male/vits.pth"
-phone_set_file = "model/tts/vn_han_male/phone_set.json"
+model_dir = os.path.join("model","tts","test")
+config_file = os.path.join(model_dir,"config.json")
+duration_model_path = os.path.join(model_dir, "duration.pth")
+lightspeed_model_path = os.path.join(model_dir,"vits.pth")
+phone_set_file = os.path.join(model_dir,"phone_set.json")
 device = "cuda" if torch.cuda.is_available() else "cpu"
 with open(config_file, "rb") as f:
     hps = json.load(f, object_hook=lambda x: SimpleNamespace(**x))
@@ -220,11 +221,10 @@ gr.Interface(
         "Trăm năm trong cõi người ta, chữ tài chữ mệnh khéo là ghét nhau.",
         "Đoạn trường tân thanh, thường được biết đến với cái tên đơn giản là Truyện Kiều, là một truyện thơ của đại thi hào Nguyễn Du",
         "Lục Vân Tiên quê ở huyện Đông Thành, khôi ngô tuấn tú, tài kiêm văn võ. Nghe tin triều đình mở khoa thi, Vân Tiên từ giã thầy xuống núi đua tài.",
-        "Lê Quý Đôn, tên thuở nhỏ là Lê Danh Phương, là vị quan thời Lê trung hưng, cũng là nhà thơ và được mệnh danh là nhà bác học lớn của Việt Nam trong thời phong kiến",
+        "Lê Quý Đôn, tên thuở nhỏ là Lê Danh Phương, là vị quan thời Lê trung hưng, this is an english sentence, cũng là nhà thơ và được mệnh danh là nhà bác học lớn của Việt Nam trong thời phong kiến",
         "Tất cả mọi người đều sinh ra có quyền bình đẳng. Tạo hóa cho họ những quyền không ai có thể xâm phạm được; trong những quyền ấy, có quyền được sống, quyền tự do và quyền mưu cầu hạnh phúc.",
     ],
     description=description,
     theme="default",
-    allow_screenshot=False,
-    allow_flagging="never",
+    allow_flagging="never"
 ).launch(debug=False)

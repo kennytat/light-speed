@@ -1,17 +1,20 @@
-logs
-ckpts
+logs*
+ckpts*
 LJSpeech-1.1
 Montreal-Forced-Aligner
 data
-dataset
-tfdata
-model
+dataset*
+audio*
+tfdata*
+model*
 
+*.wav
 *.mp3
 *.txt
 *.zip
 lexicon.*
-
+phone_set*
+!base_lexicon*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

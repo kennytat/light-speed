@@ -1,4 +1,5 @@
 import json
+import os
 from pathlib import Path
 import numpy as np
 import torch
@@ -13,8 +14,12 @@ hann_window = {}
 with open("./config.json", "rb") as f:
     config = json.load(f)
 device = "cuda" if torch.cuda.is_available() else "cpu"
-data_dir = Path("dataset")
-json_files = sorted(data_dir.glob("*.json"))
+data_dir = config["data"]["dataset_dir"] # Path to .wav and .json directory
+output_dir = config["data"]["output_dir"]
+tfdata_dir = os.path.join(output_dir, "tfdata")
+ckpts_dir = os.path.join(output_dir, "ckpts")
+json_files = sorted(Path(data_dir).glob("*.json"))
+extension = f".{config['data']['extension']}"
 dataset = []
 phone_set = []
 
@@ -97,7 +102,7 @@ def write_split(split, data, num_chunks):
     data = np.array(data, dtype=object)
     chunks = list(np.array_split(data, num_chunks))
     for i, chunk in enumerate(tqdm(chunks)):
-        write_tfdata(chunk, f"tfdata/{split}/part_{i:03d}.tfrecords")
+        write_tfdata(chunk, f"{tfdata_dir}/{split}/part_{i:03d}.tfrecords")
         
 def prepare_tf():
   global phone_set
@@ -114,12 +119,12 @@ def prepare_tf():
           duration = end * 1000 - start * 1000 # ms
           phone_set.append(phone)
           seq.append( (phone, duration) )
-      wav_file = file_path.with_suffix(".mp3")
+      wav_file = file_path.with_suffix(extension)
       dataset.append((wav_file, seq, data["end"]))
 
   phone_set = ["<SEP>"] + sorted(set(phone_set))
   assert len(phone_set) <= 256
-  with open("phone_set.json", "w", encoding="utf-8") as f:
+  with open(f"{ckpts_dir}/phone_set.json", "w", encoding="utf-8") as f:
       json.dump(phone_set, f)
 
   assert phone_set.index("<SEP>") == 0
@@ -136,4 +141,7 @@ def prepare_tf():
   write_split("train", train_data, 256)
   
 if __name__ == "__main__":
+  os.system(f"rm -rf {tfdata_dir}")
+  Path(os.path.join(tfdata_dir, "train")).mkdir(parents=True, exist_ok=True)
+  Path(os.path.join(tfdata_dir, "test")).mkdir(parents=True, exist_ok=True)
   prepare_tf()

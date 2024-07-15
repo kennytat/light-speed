@@ -37,20 +37,32 @@ A: See the `./inference.ipynb` notebook.
 
 ### Steps:
 
-- Train
+- Prepare:
 
 ```
+rm -rf dataset/*
+Create wav/txt pair files in ./dataset directory
+./split_chunk.sh <input-file-or-directory> dataset
+python stt.py
+
+```
+
+- Train
+
+```sh
 ## Install dependencies
-conda install -c conda-forge kalpy
+sudo apt-get install libcublas-12-0
+conda install -c conda-forge kalpy pynini montreal-forced-aligner -y
 pip install -r requirements.txt
+## Modify dataset_dir and output_dir corresponding to your data path in config.json
 ## Create mfa
 python prepare_mfa.py
 ## Create TF data
 python prepare_tf.py
-## Train Vits Model
-python train.py
 ## Train duration Model
 python duration_train.py
+## Train Vits Model
+python train.py
 ```
 
 - Inference

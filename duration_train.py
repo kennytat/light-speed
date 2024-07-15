@@ -1,4 +1,6 @@
 import torch  # isort:skip
+import os
+import json
 from tqdm.cli import tqdm
 from transformers import Adafactor
 from torch_ema import ExponentialMovingAverage
@@ -12,9 +14,14 @@ tf.config.set_visible_devices([], 'GPU')
 net = DurationNet(256, 64, 4).to(device)
 optim = Adafactor(net.parameters(), warmup_init=False)
 ema = ExponentialMovingAverage(net.parameters(), decay=0.995)
-batch_size = 4
+batch_size = 64
 num_epochs = 50
 
+with open("./config.json", "rb") as f:
+    config = json.load(f)
+tfdata_dir = os.path.join(config["data"]["output_dir"], "tfdata")
+ckpts_dir = os.path.join(config["data"]["output_dir"], "ckpts")
+    
 def load_tfdata(root, split, batch_size):
     feature_description = {
         "phone_idx": tf.io.FixedLenFeature([], tf.string),
@@ -59,8 +66,8 @@ def loss_fn(net, batch):
     loss = torch.sum(loss) / torch.sum(mask)
     return loss
   
-ds = load_tfdata("tfdata", "train", batch_size)
-val_ds = load_tfdata("tfdata", "test", batch_size)
+ds = load_tfdata(tfdata_dir, "train", batch_size)
+val_ds = load_tfdata(tfdata_dir, "test", batch_size)
 
 def prepare_batch(batch):
     return {
@@ -70,48 +77,48 @@ def prepare_batch(batch):
     }
 
 def duration_train():
-	global net
-	for epoch in range(num_epochs):
-			losses = []
-			for batch in tqdm(ds.as_numpy_iterator()):
-					batch = prepare_batch(batch)
-					loss = loss_fn(net, batch)
-					optim.zero_grad(set_to_none=True)
-					loss.backward()
-					optim.step()
-					ema.update()
-					losses.append(loss.item())
-			train_loss = sum(losses) / len(losses)
-			
-			losses = []
-			with ema.average_parameters():    
-					with torch.inference_mode():
-							net.eval()
-							for batch in val_ds.as_numpy_iterator():
-									batch = prepare_batch(batch)
-									loss = loss_fn(net, batch)
-									losses.append(loss.item())
-							net.train()
-			val_loss = sum(losses) / len(losses)
-			print(f"epoch {epoch:<3d}  train loss {train_loss:.5}  val loss {val_loss:.5f}")
+  global net
+  for epoch in range(num_epochs):
+      losses = []
+      for batch in tqdm(ds.as_numpy_iterator()):
+          batch = prepare_batch(batch)
+          loss = loss_fn(net, batch)
+          optim.zero_grad(set_to_none=True)
+          loss.backward()
+          optim.step()
+          ema.update()
+          losses.append(loss.item())
+      train_loss = sum(losses) / len(losses)
+      
+      losses = []
+      with ema.average_parameters():    
+          with torch.inference_mode():
+              net.eval()
+              for batch in val_ds.as_numpy_iterator():
+                  batch = prepare_batch(batch)
+                  loss = loss_fn(net, batch)
+                  losses.append(loss.item())
+              net.train()
+      val_loss = sum(losses) / len(losses)
+      print(f"epoch {epoch:<3d}  train loss {train_loss:.5}  val loss {val_loss:.5f}")
 
-	ema.copy_to(net.parameters())
-	net = net.eval()
-	torch.save(net.state_dict(), "ckpts/duration_model.pth")
+  ema.copy_to(net.parameters())
+  net = net.eval()
+  torch.save(net.state_dict(), f"{ckpts_dir}/duration_model.pth")
 
-	with torch.inference_mode():
-			for batch in val_ds.as_numpy_iterator():
-					batch = prepare_batch(batch)
-					duration = batch["phone_duration"] / 1000
-					y = net(batch["phone_idx"], batch["phone_length"]).squeeze(-1)
-					break
-			
-	plt.figure(figsize=(10, 5))
-	d = duration[0].tolist()
-	t = y[0].tolist()
-	plt.plot(d, '-*', label="target")
-	plt.plot(t, '-*', label="predict")
-	plt.legend()
+  with torch.inference_mode():
+      for batch in val_ds.as_numpy_iterator():
+          batch = prepare_batch(batch)
+          duration = batch["phone_duration"] / 1000
+          y = net(batch["phone_idx"], batch["phone_length"]).squeeze(-1)
+          break
+      
+  plt.figure(figsize=(10, 5))
+  d = duration[0].tolist()
+  t = y[0].tolist()
+  plt.plot(d, '-*', label="target")
+  plt.plot(t, '-*', label="predict")
+  plt.legend()
 
 if __name__ == "__main__":
   duration_train()

@@ -32,10 +32,21 @@ parser.add_argument("--compile", action="store_true", default=False)
 parser.add_argument("--device", type=str, default="cuda")
 parser.add_argument("--seed", type=int, default=42)
 parser.add_argument("--ckpt-interval", type=int, default=5_000)
-parser.add_argument("--rm-old-ckpt", action="store_true", default=False)
+parser.add_argument("--rm-old-ckpt", action="store_true", default=True)
 FLAGS = parser.parse_args()
 with open(FLAGS.config, "rb") as f:
     hps = json.load(f, object_hook=lambda x: SimpleNamespace(**x))
+    
+tfdata_dir = os.path.join(hps["data"]["output_dir"], "tfdata")
+
+if os.path.exists(tfdata_dir) and os.path.isdir(tfdata_dir):
+	ckpts_dir = os.path.join(hps["data"]["output_dir"], "ckpts")
+	logs_dir = os.path.join(hps["data"]["output_dir"], "ckpts", "logs") 
+else:
+  tfdata_dir = FLAGS.tfdata
+  ckpts_dir = FLAGS.ckpt_dir
+  logs_dir = FLAGS.log_dir
+
 
 #### INIT DISTRIBUTED TRAINING ####
 if "RANK" in os.environ:
@@ -81,10 +92,10 @@ d_scaler = torch.cuda.amp.GradScaler(enabled=(dtype == "float16"))
 g_scaler = torch.cuda.amp.GradScaler(enabled=(dtype == "float16"))
 
 #### INIT LOGGING ####
-FLAGS.ckpt_dir.mkdir(exist_ok=True, parents=True)
+ckpts_dir.mkdir(exist_ok=True, parents=True)
 if RANK == 0:
-    train_writer = SummaryWriter(FLAGS.log_dir / "train", flush_secs=300)
-    test_writer = SummaryWriter(FLAGS.log_dir / "test", flush_secs=300)
+    train_writer = SummaryWriter(logs_dir / "train", flush_secs=300)
+    test_writer = SummaryWriter(logs_dir / "test", flush_secs=300)
 
 #### INIT MODEL ####
 net_g = SynthesizerTrn(
@@ -126,7 +137,7 @@ scheduler_d = torch.optim.lr_scheduler.ExponentialLR(optim_d, gamma=hps.train.lr
 
 
 #### LOAD CHECKPOINT ####
-all_ckpts = sorted(FLAGS.ckpt_dir.glob("ckpt_*.pth"))
+all_ckpts = sorted(ckpts_dir.glob("ckpt_*.pth"))
 if len(all_ckpts) > 0:
     # last ckpt
     ckpt = all_ckpts[-1]
@@ -205,7 +216,7 @@ def prepare_batch(batch):
 
 def evaluate(step):
     net_g.eval()
-    ds = load_tfdata(FLAGS.tfdata, "test", 1, 0)
+    ds = load_tfdata(tfdata_dir, "test", 1, 0)
     with torch.no_grad():
         batch = next(ds.as_numpy_iterator())
         x, x_lengths, spec, spec_lengths, y, y_lengths, attn = prepare_batch(batch)
@@ -256,8 +267,9 @@ def evaluate(step):
 
 # TRAINING LOOP ...
 for epoch in range(_epoch + 1, 100_000):
+    print("processing epoch::", epoch)
     ds = load_tfdata(
-        FLAGS.tfdata,
+        tfdata_dir,
         "train",
         FLAGS.batch_size,
         seed=epoch,
@@ -375,9 +387,9 @@ for epoch in range(_epoch + 1, 100_000):
                         "scheduler_g": scheduler_g.state_dict(),
                         "scheduler_d": scheduler_d.state_dict(),
                     },
-                    FLAGS.ckpt_dir / f"ckpt_{step:08d}.pth",
+                    ckpts_dir / f"ckpt_{step:08d}.pth",
                 )
-                all_ckpts.append(FLAGS.ckpt_dir / f"ckpt_{step:08d}.pth")
+                all_ckpts.append(ckpts_dir / f"ckpt_{step:08d}.pth")
                 # keep only 10 latest checkpoints
                 if len(all_ckpts) >= 11 and FLAGS.rm_old_ckpt:
                     all_ckpts[0].unlink()

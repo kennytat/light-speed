@@ -1,7 +1,25 @@
-import regex
-import unicodedata
-from pathlib import Path
 import os
+import regex
+import re
+import json
+import unicodedata
+import shutil
+from datetime import date
+from pathlib import Path
+from viphoneme import vi2IPA, vi2IPA_split, syms
+from num2words import num2words
+from icu import Collator, Locale
+from langdetect import detect
+
+with open("./config.json", "rb") as f:
+    config = json.load(f)
+    
+dataset_dir = config["data"]["dataset_dir"] # Path to .wavs and .txt directory
+output_dir = config["data"]["output_dir"] # Path to .wavs and .txt directory
+ckpt_dir = os.path.join(output_dir, "ckpts")
+Path(ckpt_dir).mkdir(parents=True, exist_ok=True)
+shutil.copyfile("config.json", f"{ckpt_dir}/config.json")
+lexicon_file = f"{ckpt_dir}/lexicon.txt"
 
 vietnamese_characters = [
     'a', 'à', 'á', 'ả', 'ã', 'ạ',
@@ -16,9 +34,10 @@ vietnamese_characters = [
     'u', 'ù', 'ú', 'ủ', 'ũ', 'ụ',
     'ư', 'ừ', 'ứ', 'ử', 'ữ', 'ự',
     'y', 'ỳ', 'ý', 'ỷ', 'ỹ', 'ỵ',
-    'b', 'c', 'd', 'đ', 'g', 'h', 
-    'k', 'l', 'm', 'n', 'p', 'q', 
-    'r', 's', 't', 'v', 'x'
+    'b', 'c', 'd', 'đ', 'f', 'g', 
+    'h', 'j', 'k', 'l', 'm', 'n',
+    'p', 'q', 'r', 's', 't', 'v',
+    'w', 'x', 'z'
 ]
 alphabet = "".join(vietnamese_characters)
 space_re = regex.compile(r"\s+")
@@ -27,6 +46,7 @@ digits = ["không", "một", "hai", "ba", "bốn", "năm", "sáu", "bảy", "tá
 num_re = regex.compile(r"([0-9.,]*[0-9])")
 keep_text_and_num_re = regex.compile(rf'[^\s{alphabet}.,0-9]')
 keep_text_re = regex.compile(rf'[^\s{alphabet}]')
+collator = Collator.createInstance(Locale('vi_VN.UTF-8'))
 
 def read_number(num: str) -> str:
     if len(num) == 1:
@@ -83,58 +103,68 @@ def read_number(num: str) -> str:
     return num
 
 def normalize_text(x):
+    try:
+      lang = detect(x)
+    except:
+      lang = "en"
+    print(f"normalize_text: {lang} | {x}")
     x = unicodedata.normalize('NFKC', x)
     x = x.lower()
     x = num_re.sub(r" \1 ", x)
     x = keep_text_and_num_re.sub(" ", x)
     words = x.split()
-    words = [ read_number(w) if num_re.fullmatch(w) else w for w in words ]
+    words = [ read_number(w) if num_re.fullmatch(w) else w for w in words ] if lang == "vi" else [ num2words(w.replace(",","")) if num_re.fullmatch(w) else w for w in words ]
     x = " ".join(words)
     x = keep_text_re.sub(" ", x)
     x = space_re.sub(" ", x)
     x = x.strip()
     return x
 
-def create_lexicon():  
+def create_lexicon():
   all_text = []
-  for fp in sorted(Path("dataset").glob("*.txt")):
+  with open("fulltext.txt", "w") as ft:
+    for fp in sorted(Path(dataset_dir).glob("*.txt")):
       with open(fp, "r", encoding="utf-8") as f:
           text = f.read()
-          text = normalize_text(text)
-          all_text.append(text)
+          print("text:", text)
+          if text != "" and text != "hãy subscribe cho kênh ghiền mì gõ để không bỏ lỡ những video hấp dẫn":
+            ft.write(f"{fp}|{text}\n")
+            text = normalize_text(text)
+            all_text.append(text)
+          else:
+            os.system(f"rm {fp}")
       # override the text file
       with open(fp, "w", encoding="utf-8") as f:
           f.write(text)
-  all_words = sorted(set((" ".join(all_text)).split()))
+  all_words = sorted(set((" ".join(all_text)).split()), key=collator.getSortKey)
 
-  with open("lexicon.txt", "w") as f:
+  with open(lexicon_file, "w") as f:
       for w in all_words:
           w = w.strip()
           p = list(w)
           p = " ".join(p)
           f.write(f"{w}\t{p}\n")
           
-# def merge_lexicon():
-#     with open("lexicon.txt", "r", encoding="utf-8") as f:
-#       text = f.read().split("\n")
-#     with open("lexicon1.txt", "r", encoding="utf-8") as f:
-#       text1 = f.read().split("\n")
-#     # print(text)
-#     text.extend(text1)
-#     text = [word.split("\t")[0] for word in text]
-#     all_words = sorted(set(text))
-#     with open("lexicon-cb.txt", "w") as f:
-#       for w in all_words:
-#           w = w.strip()
-#           p = list(w)
-#           p = " ".join(p)
-#           f.write(f"{w}\t{p}\n")
+def merge_lexicon():
+    with open(lexicon_file, "r", encoding="utf-8") as f:
+      text = f.read().split("\n")
+    with open(f"base_lexicon.txt", "r", encoding="utf-8") as f:
+      text1 = f.read().split("\n")
+    # print(text)
+    text.extend(text1)
+    words = [word.split("\t")[0] for word in text]
+    all_words = sorted(set(words), key=collator.getSortKey)
+    with open("lexicon.txt", "w") as f:
+      for w in all_words:
+        found = [element for element in text if w in element]
+        f.write(f"{found[0]}\n")
 
-def mfa():
-  os.system(f"mfa train --num_jobs 40 --use_mp --clean --overwrite --no_textgrid_cleanup --single_speaker --output_format json --output_directory dataset dataset ./lexicon.txt vbx_mfa")
-   
 
+def mfa(name):
+  os.system(f"mfa train --num_jobs 10 --use_mp --clean --overwrite --no_textgrid_cleanup --single_speaker --output_format json --output_directory {dataset_dir} {dataset_dir} {lexicon_file} mfa_{name}")
+  
 if __name__ == "__main__":
-  # create_lexicon()
-  # merge_lexicon()
-  mfa()
+  create_lexicon()
+  merge_lexicon()
+  model_name = f"vtts-{date.today()}"
+  mfa(model_name)

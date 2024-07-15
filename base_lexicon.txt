@@ -1,0 +1,6517 @@
+a	a
+à	à
+ả	ả
+á	á
+ạ	ạ
+abandoned	a b a n d o n e d
+abeyance	a b e y a n c e
+abolished	a b o l i s h e d
+abominable	a b o m i n a b l e
+about	a b o u t
+absence	a b s e n c e
+absolute	a b s o l u t e
+abstraction	a b s t r a c t i o n
+abundantly	a b u n d a n t l y
+abuses	a b u s e s
+ác	á c
+ạc	ạ c
+academy	a c a d e m y
+accepted	a c c e p t e d
+access	a c c e s s
+accommodate	a c c o m m o d a t e
+accommodated	a c c o m m o d a t e d
+accommodating	a c c o m m o d a t i n g
+accommodation	a c c o m m o d a t i o n
+accomplished	a c c o m p l i s h e d
+according	a c c o r d i n g
+account	a c c o u n t
+accountant	a c c o u n t a n t
+accused	a c c u s e d
+ách	á c h
+acquired	a c q u i r e d
+acquittal	a c q u i t t a l
+acres	a c r e s
+across	a c r o s s
+act	a c t
+actions	a c t i o n s
+active	a c t i v e
+activity	a c t i v i t y
+acts	a c t s
+actually	a c t u a l l y
+added	a d d e d
+adding	a d d i n g
+addison	a d d i s o n
+additional	a d d i t i o n a l
+addressing	a d d r e s s i n g
+adjoining	a d j o i n i n g
+administer	a d m i n i s t e r
+administered	a d m i n i s t e r e d
+administration	a d m i n i s t r a t i o n
+admirable	a d m i r a b l e
+admission	a d m i s s i o n
+admitted	a d m i t t e d
+adopted	a d o p t e d
+advantage	a d v a n t a g e
+advantages	a d v a n t a g e s
+advice	a d v i c e
+affairs	a f f a i r s
+affirmed	a f f i r m e d
+afford	a f f o r d
+aforesaid	a f o r e s a i d
+after	a f t e r
+afterwards	a f t e r w a r d s
+again	a g a i n
+against	a g a i n s t
+ages	a g e s
+aggravated	a g g r a v a t e d
+aggravation	a g g r a v a t i o n
+ago	a g o
+ai	a i
+ải	ả i
+ái	á i
+aims	a i m s
+air	a i r
+akerman	a k e r m a n
+aldermen	a l d e r m e n
+ale	a l e
+alfred	a l f r e d
+all	a l l
+allnutt	a l l n u t t
+allotted	a l l o t t e d
+allow	a l l o w
+allowance	a l l o w a n c e
+allowances	a l l o w a n c e s
+allowed	a l l o w e d
+allowing	a l l o w i n g
+almost	a l m o s t
+alone	a l o n e
+already	a l r e a d y
+also	a l s o
+alternate	a l t e r n a t e
+although	a l t h o u g h
+altogether	a l t o g e t h e r
+always	a l w a y s
+am	a m
+ảm	ả m
+ám	á m
+ameliorated	a m e l i o r a t e d
+amelioration	a m e l i o r a t i o n
+amendment	a m e n d m e n t
+america	a m e r i c a
+among	a m o n g
+amongst	a m o n g s t
+amount	a m o u n t
+amounted	a m o u n t e d
+amusement	a m u s e m e n t
+an	a n
+án	á n
+analogous	a n a l o g o u s
+ancient	a n c i e n t
+and	a n d
+áng	á n g
+anh	a n h
+ảnh	ả n h
+ánh	á n h
+annals	a n n a l s
+annex	a n n e x
+annual	a n n u a l
+annum	a n n u m
+another	a n o t h e r
+antecedents	a n t e c e d e n t s
+anti	a n t i
+anticipation	a n t i c i p a t i o n
+any	a n y
+ao	a o
+ào	à o
+ảo	ả o
+áo	á o
+áp	á p
+apart	a p a r t
+apartments	a p a r t m e n t s
+apparently	a p p a r e n t l y
+appear	a p p e a r
+appearance	a p p e a r a n c e
+application	a p p l i c a t i o n
+applied	a p p l i e d
+appointed	a p p o i n t e d
+appointment	a p p o i n t m e n t
+appropriated	a p p r o p r i a t e d
+appropriation	a p p r o p r i a t i o n
+arcade	a r c a d e
+arch	a r c h
+archbishop	a r c h b i s h o p
+architect	a r c h i t e c t
+are	a r e
+arguments	a r g u m e n t s
+aristocratic	a r i s t o c r a t i c
+arms	a r m s
+arraigned	a r r a i g n e d
+arrange	a r r a n g e
+arrangement	a r r a n g e m e n t
+arrangements	a r r a n g e m e n t s
+arrest	a r r e s t
+arrested	a r r e s t e d
+arrests	a r r e s t s
+arrived	a r r i v e d
+art	a r t
+arthur	a r t h u r
+article	a r t i c l e
+artistic	a r t i s t i c
+arts	a r t s
+as	a s
+aspect	a s p e c t
+assault	a s s a u l t
+assemblage	a s s e m b l a g e
+assist	a s s i s t
+assisted	a s s i s t e d
+associated	a s s o c i a t e d
+associates	a s s o c i a t e s
+association	a s s o c i a t i o n
+assurance	a s s u r a n c e
+at	a t
+át	á t
+ạt	ạ t
+ate	a t e
+attempt	a t t e m p t
+attempted	a t t e m p t e d
+attend	a t t e n d
+attention	a t t e n t i o n
+auditors	a u d i t o r s
+augsburg	a u g s b u r g
+august	a u g u s t
+authorities	a u t h o r i t i e s
+authority	a u t h o r i t y
+available	a v a i l a b l e
+availed	a v a i l e d
+avoid	a v o i d
+avoidance	a v o i d a n c e
+awaiting	a w a i t i n g
+away	a w a y
+ẵm	ẵ m
+ăn	ă n
+ắp	ắ p
+ắt	ắ t
+âm	â m
+ầm	ầ m
+ẩm	ẩ m
+ấm	ấ m
+ân	â n
+ẩn	ẩ n
+ấn	ấ n
+ấp	ấ p
+ập	ậ p
+âu	â u
+ấu	ấ u
+ấy	ấ y
+ba	b a
+bà	b à
+bã	b ã
+bá	b á
+bạ	b ạ
+bác	b á c
+bạc	b ạ c
+bách	b á c h
+bạch	b ạ c h
+back	b a c k
+backed	b a c k e d
+bad	b a d
+bai	b a i
+bài	b à i
+bãi	b ã i
+bái	b á i
+bại	b ạ i
+bail	b a i l
+bailey	b a i l e y
+bake	b a k e
+ball	b a l l
+balls	b a l l s
+bam	b a m
+bám	b á m
+bambridge	b a m b r i d g e
+ban	b a n
+bàn	b à n
+bản	b ả n
+bán	b á n
+bạn	b ạ n
+band	b a n d
+bang	b a n g
+bàng	b à n g
+bảng	b ả n g
+báng	b á n g
+banh	b a n h
+bành	b à n h
+bánh	b á n h
+bao	b a o
+bào	b à o
+bảo	b ả o
+bão	b ã o
+báo	b á o
+bạo	b ạ o
+báp	b á p
+bar	b a r
+baron	b a r o n
+barrack	b a r r a c k
+bars	b a r s
+bart	b a r t
+bartholomew	b a r t h o l o m e w
+based	b a s e d
+baskerville	b a s k e r v i l l e
+bát	b á t
+bạt	b ạ t
+bath	b a t h
+báu	b á u
+bay	b a y
+bày	b à y
+bảy	b ả y
+bắc	b ắ c
+băm	b ă m
+bằm	b ằ m
+bặm	b ặ m
+băn	b ă n
+bắn	b ắ n
+băng	b ă n g
+bằng	b ằ n g
+bắp	b ắ p
+bắt	b ắ t
+bặt	b ặ t
+bậc	b ậ c
+bầm	b ầ m
+bẩm	b ẩ m
+bần	b ầ n
+bẩn	b ẩ n
+bấn	b ấ n
+bận	b ậ n
+bấp	b ấ p
+bập	b ậ p
+bất	b ấ t
+bật	b ậ t
+bầu	b ầ u
+bấu	b ấ u
+bây	b â y
+bầy	b ầ y
+bẩy	b ẩ y
+bẫy	b ẫ y
+bấy	b ấ y
+bậy	b ậ y
+be	b e
+bè	b è
+bẻ	b ẻ
+bẽ	b ẽ
+bé	b é
+beam	b e a m
+beaten	b e a t e n
+beautiful	b e a u t i f u l
+beauty	b e a u t y
+béc	b é c
+because	b e c a u s e
+become	b e c o m e
+becoming	b e c o m i n g
+bed	b e d
+bedding	b e d d i n g
+beds	b e d s
+bedsteads	b e d s t e a d s
+been	b e e n
+beer	b e e r
+before	b e f o r e
+began	b e g a n
+beginning	b e g i n n i n g
+beginnings	b e g i n n i n g s
+behaved	b e h a v e d
+behind	b e h i n d
+being	b e i n g
+belgium	b e l g i u m
+ben	b e n
+bèn	b è n
+bén	b é n
+bench	b e n c h
+benefits	b e n e f i t s
+benevolent	b e n e v o l e n t
+bennet	b e n n e t
+beo	b e o
+bèo	b è o
+béo	b é o
+bẹp	b ẹ p
+bequests	b e q u e s t s
+besides	b e s i d e s
+best	b e s t
+bét	b é t
+bẹt	b ẹ t
+better	b e t t e r
+between	b e t w e e n
+beverage	b e v e r a g e
+beyond	b e y o n d
+bê	b ê
+bề	b ề
+bể	b ể
+bế	b ế
+bệ	b ệ
+bên	b ê n
+bền	b ề n
+bến	b ế n
+bện	b ệ n
+bênh	b ê n h
+bềnh	b ề n h
+bệnh	b ệ n h
+bếp	b ế p
+bết	b ế t
+bêu	b ê u
+bi	b i
+bì	b ì
+bỉ	b ỉ
+bí	b í
+bị	b ị
+bia	b i a
+bịa	b ị a
+bible	b i b l e
+bích	b í c h
+bịch	b ị c h
+biếc	b i ế c
+biếm	b i ế m
+biên	b i ê n
+biển	b i ể n
+biến	b i ế n
+biện	b i ệ n
+biếng	b i ế n g
+biết	b i ế t
+biệt	b i ệ t
+biểu	b i ể u
+biếu	b i ế u
+bill	b i l l
+bim	b i m
+bin	b i n
+binh	b i n h
+bình	b ì n h
+bỉnh	b ỉ n h
+bính	b í n h
+bins	b i n s
+bíp	b í p
+bịp	b ị p
+bishop	b i s h o p
+bít	b í t
+bịt	b ị t
+bịu	b ị u
+black	b l a c k
+blackburn	b l a c k b u r n
+blacksmith	b l a c k s m i t h
+blame	b l a m e
+blinked	b l i n k e d
+blocks	b l o c k s
+blue	b l u e
+bo	b o
+bò	b ò
+bỏ	b ỏ
+bó	b ó
+bọ	b ọ
+boasted	b o a s t e d
+bóc	b ó c
+bọc	b ọ c
+bodily	b o d i l y
+bodoni	b o d o n i
+body	b o d y
+bói	b ó i
+boiling	b o i l i n g
+bon	b o n
+bón	b ó n
+bọn	b ọ n
+bong	b o n g
+bỏng	b ỏ n g
+bóng	b ó n g
+book	b o o k
+books	b o o k s
+booty	b o o t y
+bóp	b ó p
+borough	b o r o u g h
+bọt	b ọ t
+both	b o t h
+bottle	b o t t l e
+bottom	b o t t o m
+bought	b o u g h t
+box	b o x
+boy	b o y
+bô	b ô
+bồ	b ồ
+bổ	b ổ
+bố	b ố
+bộ	b ộ
+bốc	b ố c
+bộc	b ộ c
+bôi	b ô i
+bồi	b ồ i
+bối	b ố i
+bội	b ộ i
+bôn	b ô n
+bồn	b ồ n
+bổn	b ổ n
+bốn	b ố n
+bộn	b ộ n
+bông	b ô n g
+bồng	b ồ n g
+bổng	b ổ n g
+bỗng	b ỗ n g
+bốt	b ố t
+bột	b ộ t
+bơ	b ơ
+bờ	b ờ
+bỡ	b ỡ
+bớ	b ớ
+bợ	b ợ
+bơi	b ơ i
+bời	b ờ i
+bởi	b ở i
+bới	b ớ i
+bờm	b ờ m
+bợm	b ợ m
+bớt	b ớ t
+brace	b r a c e
+brains	b r a i n s
+bread	b r e a d
+breaker	b r e a k e r
+bribe	b r i b e
+brief	b r i e f
+briefly	b r i e f l y
+bring	b r i n g
+britain	b r i t a i n
+british	b r i t i s h
+broad	b r o a d
+broken	b r o k e n
+brooms	b r o o m s
+brother	b r o t h e r
+brothers	b r o t h e r s
+brought	b r o u g h t
+bu	b u
+bù	b ù
+bú	b ú
+bùa	b ù a
+bủa	b ủ a
+búa	b ú a
+bụa	b ụ a
+búc	b ú c
+bục	b ụ c
+bùi	b ù i
+bụi	b ụ i
+build	b u i l d
+buildings	b u i l d i n g s
+built	b u i l t
+bumble	b u m b l e
+bun	b u n
+bùn	b ù n
+bủn	b ủ n
+bùng	b ù n g
+bụng	b ụ n g
+buộc	b u ộ c
+buổi	b u ổ i
+buồm	b u ồ m
+buôn	b u ô n
+buồn	b u ồ n
+buông	b u ô n g
+buồng	b u ồ n g
+buột	b u ộ t
+búp	b ú p
+burglars	b u r g l a r s
+business	b u s i n e s s
+but	b u t
+bút	b ú t
+bụt	b ụ t
+buxton	b u x t o n
+bừa	b ừ a
+bữa	b ữ a
+bức	b ứ c
+bực	b ự c
+bưng	b ư n g
+bừng	b ừ n g
+bứng	b ứ n g
+bước	b ư ớ c
+bướng	b ư ớ n g
+bướu	b ư ớ u
+bứt	b ứ t
+by	b y
+c	c
+ca	c a
+cà	c à
+cả	c ả
+cá	c á
+cabin	c a b i n
+các	c á c
+cách	c á c h
+cai	c a i
+cài	c à i
+cải	c ả i
+cãi	c ã i
+cái	c á i
+cại	c ạ i
+calculated	c a l c u l a t e d
+calculation	c a l c u l a t i o n
+call	c a l l
+called	c a l l e d
+callous	c a l l o u s
+cam	c a m
+cảm	c ả m
+cám	c á m
+cạm	c ạ m
+came	c a m e
+can	c a n
+càn	c à n
+cản	c ả n
+cán	c á n
+cạn	c ạ n
+candles	c a n d l e s
+càng	c à n g
+cảng	c ả n g
+canh	c a n h
+cành	c à n h
+cảnh	c ả n h
+cánh	c á n h
+cạnh	c ạ n h
+cannot	c a n n o t
+canterbury	c a n t e r b u r y
+cao	c a o
+cào	c à o
+cáo	c á o
+cạo	c ạ o
+cáp	c á p
+cạp	c ạ p
+capable	c a p a b l e
+capital	c a p i t a l
+captains	c a p t a i n s
+cardboard	c a r d b o a r d
+cards	c a r d s
+care	c a r e
+cared	c a r e d
+careful	c a r e f u l
+carefully	c a r e f u l l y
+carelessly	c a r e l e s s l y
+carpenter	c a r p e n t e r
+carried	c a r r i e d
+carrying	c a r r y i n g
+cart	c a r t
+case	c a s e
+cases	c a s e s
+cash	c a s h
+cashman	c a s h m a n
+caslon	c a s l o n
+cast	c a s t
+casting	c a s t i n g
+cát	c á t
+cạt	c ạ t
+categories	c a t e g o r i e s
+càu	c à u
+cáu	c á u
+caught	c a u g h t
+cause	c a u s e
+causes	c a u s e s
+caxton	c a x t o n
+cay	c a y
+cày	c à y
+cạy	c ạ y
+cắc	c ắ c
+căm	c ă m
+cằm	c ằ m
+cắm	c ắ m
+cặm	c ặ m
+căn	c ă n
+cằn	c ằ n
+cắn	c ắ n
+cặn	c ặ n
+căng	c ă n g
+cắp	c ắ p
+cặp	c ặ p
+cắt	c ắ t
+câm	c â m
+cầm	c ầ m
+cẩm	c ẩ m
+cấm	c ấ m
+cân	c â n
+cần	c ầ n
+cẩn	c ẩ n
+cấn	c ấ n
+cận	c ậ n
+câp	c â p
+cấp	c ấ p
+cập	c ậ p
+cất	c ấ t
+cật	c ậ t
+câu	c â u
+cầu	c ầ u
+cẩu	c ẩ u
+cấu	c ấ u
+cậu	c ậ u
+cây	c â y
+cấy	c ấ y
+cậy	c ậ y
+cease	c e a s e
+ceased	c e a s e d
+ceilings	c e i l i n g s
+cell	c e l l
+cells	c e l l s
+center	c e n t e r
+centuries	c e n t u r i e s
+century	c e n t u r y
+certain	c e r t a i n
+certainly	c e r t a i n l y
+certify	c e r t i f y
+cha	c h a
+chà	c h à
+chác	c h á c
+chai	c h a i
+chài	c h à i
+chải	c h ả i
+chãi	c h ã i
+chain	c h a i n
+chained	c h a i n e d
+chair	c h a i r
+chairman	c h a i r m a n
+chalked	c h a l k e d
+cham	c h a m
+chạm	c h ạ m
+chambering	c h a m b e r i n g
+chan	c h a n
+chán	c h á n
+chance	c h a n c e
+chancery	c h a n c e r y
+chandler	c h a n d l e r
+chàng	c h à n g
+change	c h a n g e
+changed	c h a n g e d
+chánh	c h á n h
+chạnh	c h ạ n h
+chao	c h a o
+chào	c h à o
+chảo	c h ả o
+cháo	c h á o
+chạp	c h ạ p
+chapel	c h a p e l
+chaplain	c h a p l a i n
+chaplains	c h a p l a i n s
+chapter	c h a p t e r
+character	c h a r a c t e r
+characteristic	c h a r a c t e r i s t i c
+characterless	c h a r a c t e r l e s s
+characters	c h a r a c t e r s
+charge	c h a r g e
+charged	c h a r g e d
+charges	c h a r g e s
+charitable	c h a r i t a b l e
+charities	c h a r i t i e s
+charity	c h a r i t y
+charles	c h a r l e s
+cháu	c h á u
+chay	c h a y
+chày	c h à y
+chảy	c h ả y
+cháy	c h á y
+chạy	c h ạ y
+chắc	c h ắ c
+chăm	c h ă m
+chằm	c h ằ m
+chăn	c h ă n
+chắn	c h ắ n
+chặn	c h ặ n
+chăng	c h ă n g
+chằng	c h ằ n g
+chẳng	c h ẳ n g
+chặng	c h ặ n g
+chắp	c h ắ p
+chặp	c h ặ p
+chắt	c h ắ t
+chặt	c h ặ t
+châm	c h â m
+chầm	c h ầ m
+chấm	c h ấ m
+chậm	c h ậ m
+chân	c h â n
+chần	c h ầ n
+chấn	c h ấ n
+chận	c h ậ n
+chấp	c h ấ p
+chập	c h ậ p
+chất	c h ấ t
+chật	c h ậ t
+châu	c h â u
+chầu	c h ầ u
+chấu	c h ấ u
+chậu	c h ậ u
+che	c h e
+chè	c h è
+chẻ	c h ẻ
+chẽ	c h ẽ
+cheap	c h e a p
+cheapest	c h e a p e s t
+check	c h e c k
+chem	c h e m
+chém	c h é m
+chen	c h e n
+chèn	c h è n
+chén	c h é n
+cheo	c h e o
+chèo	c h è o
+chéo	c h é o
+chép	c h é p
+chét	c h é t
+chê	c h ê
+chề	c h ề
+chế	c h ế
+chệ	c h ệ
+chễm	c h ễ m
+chên	c h ê n
+chết	c h ế t
+chi	c h i
+chì	c h ì
+chỉ	c h ỉ
+chí	c h í
+chị	c h ị
+chia	c h i a
+chìa	c h ì a
+chĩa	c h ĩ a
+chích	c h í c h
+chiefly	c h i e f l y
+chiếc	c h i ế c
+chiêm	c h i ê m
+chiếm	c h i ế m
+chiên	c h i ê n
+chiến	c h i ế n
+chiêng	c h i ê n g
+chiết	c h i ế t
+chiêu	c h i ê u
+chiều	c h i ề u
+chiếu	c h i ế u
+children	c h i l d r e n
+chim	c h i m
+chìm	c h ì m
+chín	c h í n
+chinese	c h i n e s e
+chinh	c h i n h
+chỉnh	c h ỉ n h
+chính	c h í n h
+chíp	c h í p
+chiswick	c h i s w i c k
+chít	c h í t
+chịt	c h ị t
+chịu	c h ị u
+cho	c h o
+chõ	c h õ
+chó	c h ó
+chọ	c h ọ
+chõa	c h õ a
+choán	c h o á n
+choang	c h o a n g
+choàng	c h o à n g
+choáng	c h o á n g
+choạng	c h o ạ n g
+chóc	c h ó c
+chọc	c h ọ c
+chòi	c h ò i
+chói	c h ó i
+chòm	c h ò m
+chọn	c h ọ n
+chóng	c h ó n g
+chose	c h o s e
+chosen	c h o s e n
+chót	c h ó t
+chô	c h ô
+chỗ	c h ỗ
+chốc	c h ố c
+chồi	c h ồ i
+chổi	c h ổ i
+chỗi	c h ỗ i
+chối	c h ố i
+chôn	c h ô n
+chồn	c h ồ n
+chốn	c h ố n
+chông	c h ô n g
+chồng	c h ồ n g
+chống	c h ố n g
+chốt	c h ố t
+chột	c h ộ t
+chờ	c h ờ
+chở	c h ở
+chớ	c h ớ
+chợ	c h ợ
+chơi	c h ơ i
+chởm	c h ở m
+chờn	c h ờ n
+chớp	c h ớ p
+chợp	c h ợ p
+chợt	c h ợ t
+chronicles	c h r o n i c l e s
+chu	c h u
+chủ	c h ủ
+chú	c h ú
+chua	c h u a
+chúa	c h ú a
+chuẩn	c h u ẩ n
+chúc	c h ú c
+chục	c h ụ c
+chui	c h u i
+chùi	c h ù i
+chũi	c h ũ i
+chum	c h u m
+chùm	c h ù m
+chùn	c h ù n
+chung	c h u n g
+chủng	c h ủ n g
+chúng	c h ú n g
+chuốc	c h u ố c
+chuộc	c h u ộ c
+chuỗi	c h u ỗ i
+chuôm	c h u ô m
+chuông	c h u ô n g
+chuồng	c h u ồ n g
+chuộng	c h u ộ n g
+chuốt	c h u ố t
+chuột	c h u ộ t
+chụp	c h ụ p
+chút	c h ú t
+chuyên	c h u y ê n
+chuyền	c h u y ề n
+chuyển	c h u y ể n
+chuyến	c h u y ế n
+chuyện	c h u y ệ n
+chư	c h ư
+chữ	c h ữ
+chứ	c h ứ
+chưa	c h ư a
+chừa	c h ừ a
+chửa	c h ử a
+chữa	c h ữ a
+chứa	c h ứ a
+chức	c h ứ c
+chực	c h ự c
+chửi	c h ử i
+chưng	c h ư n g
+chừng	c h ừ n g
+chửng	c h ử n g
+chứng	c h ứ n g
+chước	c h ư ớ c
+chương	c h ư ơ n g
+chường	c h ư ờ n g
+chướng	c h ư ớ n g
+circumference	c i r c u m f e r e n c e
+circumstances	c i r c u m s t a n c e s
+cities	c i t i e s
+city	c i t y
+civil	c i v i l
+claim	c l a i m
+claimed	c l a i m e d
+class	c l a s s
+classes	c l a s s e s
+classics	c l a s s i c s
+classification	c l a s s i f i c a t i o n
+clean	c l e a n
+cleanliness	c l e a n l i n e s s
+clear	c l e a r
+clerk	c l e r k
+clerks	c l e r k s
+climbing	c l i m b i n g
+clings	c l i n g s
+closely	c l o s e l y
+clothes	c l o t h e s
+clothing	c l o t h i n g
+club	c l u b
+clumsy	c l u m s y
+co	c o
+cò	c ò
+cỏ	c ỏ
+có	c ó
+cọ	c ọ
+coach	c o a c h
+coadjutor	c o a d j u t o r
+coals	c o a l s
+cóc	c ó c
+cọc	c ọ c
+code	c o d e
+coffee	c o f f e e
+coffin	c o f f i n
+coi	c o i
+còi	c ò i
+cỏi	c ỏ i
+cõi	c õ i
+cói	c ó i
+cold	c o l d
+coldbath	c o l d b a t h
+collection	c o l l e c t i o n
+collector	c o l l e c t o r
+collegians	c o l l e g i a n s
+cologne	c o l o g n e
+colonies	c o l o n i e s
+colossal	c o l o s s a l
+còm	c ò m
+combined	c o m b i n e d
+come	c o m e
+comely	c o m e l y
+comer	c o m e r
+comfort	c o m f o r t
+comfortable	c o m f o r t a b l e
+comforts	c o m f o r t s
+commencement	c o m m e n c e m e n t
+commercial	c o m m e r c i a l
+commission	c o m m i s s i o n
+commissioner	c o m m i s s i o n e r
+commitment	c o m m i t m e n t
+committals	c o m m i t t a l s
+committed	c o m m i t t e d
+committee	c o m m i t t e e
+commodious	c o m m o d i o u s
+common	c o m m o n
+commonly	c o m m o n l y
+commons	c o m m o n s
+commotion	c o m m o t i o n
+communicate	c o m m u n i c a t e
+community	c o m m u n i t y
+companions	c o m p a n i o n s
+comparatively	c o m p a r a t i v e l y
+compare	c o m p a r e
+compassed	c o m p a s s e d
+compel	c o m p e l
+compelling	c o m p e l l i n g
+complete	c o m p l e t e
+completely	c o m p l e t e l y
+completion	c o m p l e t i o n
+composed	c o m p o s e d
+comprising	c o m p r i s i n g
+compter	c o m p t e r
+compters	c o m p t e r s
+compulsory	c o m p u l s o r y
+con	c o n
+còn	c ò n
+concerned	c o n c e r n e d
+condemnation	c o n d e m n a t i o n
+condemned	c o n d e m n e d
+condition	c o n d i t i o n
+conditions	c o n d i t i o n s
+conduct	c o n d u c t
+conducted	c o n d u c t e d
+confederates	c o n f e d e r a t e s
+confined	c o n f i n e d
+confinement	c o n f i n e m e n t
+cong	c o n g
+còng	c ò n g
+cõng	c õ n g
+cọng	c ọ n g
+congregation	c o n g r e g a t i o n
+connected	c o n n e c t e d
+connived	c o n n i v e d
+conscience	c o n s c i e n c e
+conscious	c o n s c i o u s
+consequence	c o n s e q u e n c e
+consequent	c o n s e q u e n t
+conservation	c o n s e r v a t i o n
+considerable	c o n s i d e r a b l e
+considered	c o n s i d e r e d
+considers	c o n s i d e r s
+consist	c o n s i s t
+consisted	c o n s i s t e d
+consisting	c o n s i s t i n g
+consolation	c o n s o l a t i o n
+constantly	c o n s t a n t l y
+constitute	c o n s t i t u t e
+construction	c o n s t r u c t i o n
+contagious	c o n t a g i o u s
+contain	c o n t a i n
+contained	c o n t a i n e d
+contemporaneous	c o n t e m p o r a n e o u s
+contempt	c o n t e m p t
+contingents	c o n t i n g e n t s
+continued	c o n t i n u e d
+continues	c o n t i n u e s
+continuous	c o n t i n u o u s
+contractors	c o n t r a c t o r s
+contrasts	c o n t r a s t s
+contribution	c o n t r i b u t i o n
+control	c o n t r o l
+conventionality	c o n v e n t i o n a l i t y
+convey	c o n v e y
+convict	c o n v i c t
+convicted	c o n v i c t e d
+convicts	c o n v i c t s
+cooking	c o o k i n g
+cọp	c ọ p
+copper	c o p p e r
+corn	c o r n
+corporation	c o r p o r a t i o n
+correspondence	c o r r e s p o n d e n c e
+cost	c o s t
+costs	c o s t s
+cọt	c ọ t
+coughing	c o u g h i n g
+could	c o u l d
+council	c o u n c i l
+councilmen	c o u n c i l m e n
+counsels	c o u n s e l s
+counteracted	c o u n t e r a c t e d
+countered	c o u n t e r e d
+country	c o u n t r y
+county	c o u n t y
+couple	c o u p l e
+couples	c o u p l e s
+course	c o u r s e
+court	c o u r t
+courts	c o u r t s
+coventry	c o v e n t r y
+cover	c o v e r
+cô	c ô
+cổ	c ổ
+cỗ	c ỗ
+cố	c ố
+cộ	c ộ
+cốc	c ố c
+côi	c ô i
+cỗi	c ỗ i
+cối	c ố i
+cội	c ộ i
+côm	c ô m
+côn	c ô n
+cồn	c ồ n
+công	c ô n g
+cổng	c ổ n g
+cống	c ố n g
+cộng	c ộ n g
+cốp	c ố p
+cốt	c ố t
+cột	c ộ t
+cơ	c ơ
+cờ	c ờ
+cỡ	c ỡ
+cớ	c ớ
+cởi	c ở i
+cỡi	c ỡ i
+cơm	c ơ m
+cơn	c ơ n
+cỡn	c ỡ n
+cợt	c ợ t
+craft	c r a f t
+crafts	c r a f t s
+craftsmen	c r a f t s m e n
+creditors	c r e d i t o r s
+crime	c r i m e
+crimes	c r i m e s
+criminal	c r i m i n a l
+criminals	c r i m i n a l s
+cross	c r o s s
+crowded	c r o w d e d
+crowding	c r o w d i n g
+crowds	c r o w d s
+crown	c r o w n
+crying	c r y i n g
+cu	c u
+cù	c ù
+cũ	c ũ
+cú	c ú
+cụ	c ụ
+cua	c u a
+của	c ủ a
+cúc	c ú c
+cui	c u i
+cùi	c ù i
+củi	c ủ i
+cúi	c ú i
+cụi	c ụ i
+culprit	c u l p r i t
+cum	c u m
+cùm	c ù m
+cụm	c ụ m
+cun	c u n
+cùn	c ù n
+cung	c u n g
+cùng	c ù n g
+củng	c ủ n g
+cũng	c ũ n g
+cúng	c ú n g
+cuốc	c u ố c
+cuộc	c u ộ c
+cuối	c u ố i
+cuội	c u ộ i
+cuồn	c u ồ n
+cuốn	c u ố n
+cuộn	c u ộ n
+cuồng	c u ồ n g
+cuống	c u ố n g
+cúp	c ú p
+cups	c u p s
+curiosity	c u r i o s i t y
+curious	c u r i o u s
+cút	c ú t
+cụt	c ụ t
+cuts	c u t s
+cư	c ư
+cử	c ử
+cữ	c ữ
+cứ	c ứ
+cự	c ự
+cưa	c ư a
+cửa	c ử a
+cựa	c ự a
+cực	c ự c
+cửi	c ử i
+cưng	c ư n g
+cứng	c ứ n g
+cười	c ư ờ i
+cưỡi	c ư ỡ i
+cưới	c ư ớ i
+cương	c ư ơ n g
+cường	c ư ờ n g
+cưỡng	c ư ỡ n g
+cướp	c ư ớ p
+cưu	c ư u
+cừu	c ừ u
+cửu	c ử u
+cữu	c ữ u
+cứu	c ứ u
+cựu	c ự u
+da	d a
+dả	d ả
+dã	d ã
+dạ	d ạ
+dạc	d ạ c
+dai	d a i
+dài	d à i
+dải	d ả i
+dãi	d ã i
+dại	d ạ i
+daily	d a i l y
+dám	d á m
+damp	d a m p
+dan	d a n
+dàn	d à n
+dán	d á n
+dạn	d ạ n
+dance	d a n c e
+dang	d a n g
+dàng	d à n g
+dáng	d á n g
+dạng	d ạ n g
+dangerous	d a n g e r o u s
+danh	d a n h
+dành	d à n h
+dao	d a o
+dào	d à o
+dạo	d ạ o
+dát	d á t
+dạt	d ạ t
+date	d a t e
+dated	d a t e d
+day	d a y
+dày	d à y
+dãy	d ã y
+dáy	d á y
+dạy	d ạ y
+days	d a y s
+dazzling	d a z z l i n g
+dằm	d ằ m
+dặm	d ặ m
+dằn	d ằ n
+dặn	d ặ n
+dẳng	d ẳ n g
+dắt	d ắ t
+dặt	d ặ t
+dâm	d â m
+dầm	d ầ m
+dẫm	d ẫ m
+dấm	d ấ m
+dậm	d ậ m
+dân	d â n
+dần	d ầ n
+dẫn	d ẫ n
+dâng	d â n g
+dấp	d ấ p
+dập	d ậ p
+dật	d ậ t
+dâu	d â u
+dầu	d ầ u
+dẫu	d ẫ u
+dấu	d ấ u
+dậu	d ậ u
+dây	d â y
+dẫy	d ẫ y
+dấy	d ấ y
+dậy	d ậ y
+de	d e
+dè	d è
+dẻ	d ẻ
+dead	d e a d
+deal	d e a l
+dealt	d e a l t
+death	d e a t h
+debarred	d e b a r r e d
+debauched	d e b a u c h e d
+debt	d e b t
+debtor	d e b t o r
+debtors	d e b t o r s
+debts	d e b t s
+decent	d e c e n t
+decided	d e c i d e d
+declared	d e c l a r e d
+declaring	d e c l a r i n g
+declined	d e c l i n e d
+deduced	d e d u c e d
+deducted	d e d u c t e d
+deemed	d e e m e d
+default	d e f a u l t
+defect	d e f e c t
+definite	d e f i n i t e
+degree	d e g r e e
+delays	d e l a y s
+delicacy	d e l i c a c y
+delicate	d e l i c a t e
+demand	d e m a n d
+demanded	d e m a n d e d
+demands	d e m a n d s
+denied	d e n i e d
+denizens	d e n i z e n s
+deny	d e n y
+dép	d é p
+dẹp	d ẹ p
+departments	d e p a r t m e n t s
+dependent	d e p e n d e n t
+deprecated	d e p r e c a t e d
+deprived	d e p r i v e d
+deputy	d e p u t y
+derived	d e r i v e d
+described	d e s c r i b e d
+description	d e s c r i p t i o n
+design	d e s i g n
+designed	d e s i g n e d
+desirable	d e s i r a b l e
+desire	d e s i r e
+desired	d e s i r e d
+despair	d e s p a i r
+despite	d e s p i t e
+destined	d e s t i n e d
+destitute	d e s t i t u t e
+destroyed	d e s t r o y e d
+details	d e t a i l s
+determine	d e t e r m i n e
+developed	d e v e l o p e d
+development	d e v e l o p m e n t
+devotion	d e v o t i o n
+dê	d ê
+dể	d ể
+dễ	d ễ
+dế	d ế
+dệt	d ệ t
+di	d i
+dì	d ì
+dĩ	d ĩ
+dị	d ị
+dĩa	d ĩ a
+diary	d i a r y
+dice	d i c e
+dích	d í c h
+dịch	d ị c h
+did	d i d
+didot	d i d o t
+die	d i e
+diệc	d i ệ c
+diêm	d i ê m
+diễm	d i ễ m
+diếm	d i ế m
+diễn	d i ễ n
+diện	d i ệ n
+diệt	d i ệ t
+diều	d i ề u
+diễu	d i ễ u
+diệu	d i ệ u
+differences	d i f f e r e n c e s
+different	d i f f e r e n t
+differs	d i f f e r s
+difficulties	d i f f i c u l t i e s
+diffusion	d i f f u s i o n
+dim	d i m
+dìm	d ì m
+dimensions	d i m e n s i o n s
+diminish	d i m i n i s h
+diminished	d i m i n i s h e d
+dinh	d i n h
+dính	d í n h
+díp	d í p
+dịp	d ị p
+directed	d i r e c t e d
+directly	d i r e c t l y
+dirt	d i r t
+dirty	d i r t y
+disappear	d i s a p p e a r
+disappeared	d i s a p p e a r e d
+discharge	d i s c h a r g e
+discipline	d i s c i p l i n e
+disclosures	d i s c l o s u r e s
+discomfort	d i s c o m f o r t
+discontinued	d i s c o n t i n u e d
+discouraging	d i s c o u r a g i n g
+discreditable	d i s c r e d i t a b l e
+disease	d i s e a s e
+disgraceful	d i s g r a c e f u l
+disguise	d i s g u i s e
+disorder	d i s o r d e r
+disorderly	d i s o r d e r l y
+disposal	d i s p o s a l
+disposed	d i s p o s e d
+disregard	d i s r e g a r d
+disreputable	d i s r e p u t a b l e
+distance	d i s t a n c e
+distinct	d i s t i n c t
+distinguishable	d i s t i n g u i s h a b l e
+distress	d i s t r e s s
+distributed	d i s t r i b u t e d
+distribution	d i s t r i b u t i o n
+disturbance	d i s t u r b a n c e
+dít	d í t
+dìu	d ì u
+díu	d í u
+dịu	d ị u
+divided	d i v i d e d
+divine	d i v i n e
+division	d i v i s i o n
+divisions	d i v i s i o n s
+do	d o
+dò	d ò
+dọ	d ọ
+dọa	d ọ a
+doanh	d o a n h
+dobson	d o b s o n
+dọc	d ọ c
+dogs	d o g s
+dõi	d õ i
+dọi	d ọ i
+dòm	d ò m
+dòn	d ò n
+dọn	d ọ n
+donations	d o n a t i o n s
+done	d o n e
+dong	d o n g
+dòng	d ò n g
+dõng	d õ n g
+door	d o o r
+doors	d o o r s
+dót	d ó t
+double	d o u b l e
+doubled	d o u b l e d
+doubtless	d o u b t l e s s
+down	d o w n
+dỗ	d ỗ
+dốc	d ố c
+dồi	d ồ i
+dỗi	d ỗ i
+dối	d ố i
+dội	d ộ i
+dồn	d ồ n
+dông	d ô n g
+dộp	d ộ p
+dốt	d ố t
+dột	d ộ t
+dơ	d ơ
+dở	d ở
+dỡ	d ỡ
+dơi	d ơ i
+dời	d ờ i
+dớt	d ớ t
+drawing	d r a w i n g
+drawn	d r a w n
+dreadful	d r e a d f u l
+dreadfully	d r e a d f u l l y
+drew	d r e w
+drink	d r i n k
+drinking	d r i n k i n g
+driven	d r i v e n
+drunk	d r u n k
+drunkenness	d r u n k e n n e s s
+du	d u
+dù	d ù
+dụ	d ụ
+dua	d u a
+dùa	d ù a
+dục	d ụ c
+due	d u e
+dùi	d ù i
+duke	d u k e
+duly	d u l y
+dum	d u m
+dùm	d ù m
+dụm	d ụ m
+dung	d u n g
+dùng	d ù n g
+dũng	d ũ n g
+dụng	d ụ n g
+dungeons	d u n g e o n s
+duỗi	d u ỗ i
+durance	d u r a n c e
+during	d u r i n g
+dust	d u s t
+dutch	d u t c h
+duties	d u t i e s
+duty	d u t y
+duy	d u y
+duyên	d u y ê n
+duyệt	d u y ệ t
+dư	d ư
+dữ	d ữ
+dự	d ự
+dưa	d ư a
+dựa	d ự a
+dưng	d ư n g
+dừng	d ừ n g
+dửng	d ử n g
+dựng	d ự n g
+dược	d ư ợ c
+dưới	d ư ớ i
+dương	d ư ơ n g
+dường	d ư ờ n g
+dưỡng	d ư ỡ n g
+dứt	d ứ t
+đa	đ a
+đà	đ à
+đả	đ ả
+đã	đ ã
+đá	đ á
+đác	đ á c
+đạc	đ ạ c
+đai	đ a i
+đài	đ à i
+đãi	đ ã i
+đại	đ ạ i
+đam	đ a m
+đàm	đ à m
+đảm	đ ả m
+đám	đ á m
+đạm	đ ạ m
+đan	đ a n
+đàn	đ à n
+đang	đ a n g
+đàng	đ à n g
+đảng	đ ả n g
+đãng	đ ã n g
+đáng	đ á n g
+đanh	đ a n h
+đành	đ à n h
+đánh	đ á n h
+đao	đ a o
+đào	đ à o
+đảo	đ ả o
+đáo	đ á o
+đạo	đ ạ o
+đáp	đ á p
+đạp	đ ạ p
+đát	đ á t
+đạt	đ ạ t
+đau	đ a u
+đày	đ à y
+đáy	đ á y
+đắc	đ ắ c
+đặc	đ ặ c
+đăm	đ ă m
+đắm	đ ắ m
+đắn	đ ắ n
+đặn	đ ặ n
+đăng	đ ă n g
+đằng	đ ằ n g
+đẳng	đ ẳ n g
+đắng	đ ắ n g
+đắp	đ ắ p
+đắt	đ ắ t
+đặt	đ ặ t
+đâm	đ â m
+đầm	đ ầ m
+đẫm	đ ẫ m
+đấm	đ ấ m
+đậm	đ ậ m
+đần	đ ầ n
+đấng	đ ấ n g
+đập	đ ậ p
+đất	đ ấ t
+đâu	đ â u
+đầu	đ ầ u
+đẩu	đ ẩ u
+đấu	đ ấ u
+đậu	đ ậ u
+đây	đ â y
+đầy	đ ầ y
+đẩy	đ ẩ y
+đẫy	đ ẫ y
+đấy	đ ấ y
+đậy	đ ậ y
+đe	đ e
+đè	đ è
+đẻ	đ ẻ
+đẽ	đ ẽ
+đéc	đ é c
+đem	đ e m
+đen	đ e n
+đèn	đ è n
+đeo	đ e o
+đèo	đ è o
+đẽo	đ ẽ o
+đẹp	đ ẹ p
+đét	đ é t
+đẹt	đ ẹ t
+đê	đ ê
+đề	đ ề
+để	đ ể
+đế	đ ế
+đệ	đ ệ
+đêm	đ ê m
+đềm	đ ề m
+đếm	đ ế m
+đệm	đ ệ m
+đên	đ ê n
+đền	đ ề n
+đển	đ ể n
+đến	đ ế n
+đênh	đ ê n h
+đết	đ ế t
+đêu	đ ê u
+đều	đ ề u
+đi	đ i
+đĩ	đ ĩ
+đia	đ i a
+đìa	đ ì a
+đỉa	đ ỉ a
+đĩa	đ ĩ a
+địa	đ ị a
+đích	đ í c h
+địch	đ ị c h
+điếc	đ i ế c
+điềm	đ i ề m
+điểm	đ i ể m
+điếm	đ i ế m
+điên	đ i ê n
+điển	đ i ể n
+điện	đ i ệ n
+điệp	đ i ệ p
+điết	đ i ế t
+điêu	đ i ê u
+điều	đ i ề u
+điểu	đ i ể u
+điệu	đ i ệ u
+đim	đ i m
+đin	đ i n
+đinh	đ i n h
+đình	đ ì n h
+đỉnh	đ ỉ n h
+đính	đ í n h
+định	đ ị n h
+điô	đ i ô
+đíp	đ í p
+đít	đ í t
+đo	đ o
+đỏ	đ ỏ
+đó	đ ó
+đoá	đ o á
+đọa	đ ọ a
+đoái	đ o á i
+đoan	đ o a n
+đoàn	đ o à n
+đoán	đ o á n
+đoạn	đ o ạ n
+đoạt	đ o ạ t
+đọc	đ ọ c
+đòi	đ ò i
+đói	đ ó i
+đon	đ o n
+đòn	đ ò n
+đón	đ ó n
+đong	đ o n g
+đóng	đ ó n g
+đọng	đ ọ n g
+đọt	đ ọ t
+đô	đ ô
+đồ	đ ồ
+đổ	đ ổ
+đố	đ ố
+độ	đ ộ
+đốc	đ ố c
+độc	đ ộ c
+đôi	đ ô i
+đồi	đ ồ i
+đổi	đ ổ i
+đỗi	đ ỗ i
+đối	đ ố i
+đội	đ ộ i
+đôm	đ ô m
+đốm	đ ố m
+đôn	đ ô n
+đồn	đ ồ n
+đốn	đ ố n
+độn	đ ộ n
+đông	đ ô n g
+đồng	đ ồ n g
+đống	đ ố n g
+động	đ ộ n g
+đốt	đ ố t
+đột	đ ộ t
+đơ	đ ơ
+đờ	đ ờ
+đỡ	đ ỡ
+đợ	đ ợ
+đời	đ ờ i
+đợi	đ ợ i
+đơm	đ ơ m
+đơn	đ ơ n
+đớn	đ ớ n
+đợt	đ ợ t
+đu	đ u
+đủ	đ ủ
+đua	đ u a
+đùa	đ ù a
+đũa	đ ũ a
+đúc	đ ú c
+đục	đ ụ c
+đui	đ u i
+đùi	đ ù i
+đủi	đ ủ i
+đun	đ u n
+đùng	đ ù n g
+đúng	đ ú n g
+đụng	đ ụ n g
+đuốc	đ u ố c
+đuôi	đ u ô i
+đuổi	đ u ổ i
+đuối	đ u ố i
+đút	đ ú t
+đưa	đ ư a
+đứa	đ ứ a
+đưc	đ ư c
+đức	đ ứ c
+đực	đ ự c
+đừng	đ ừ n g
+đứng	đ ứ n g
+đựng	đ ự n g
+được	đ ư ợ c
+đượm	đ ư ợ m
+đương	đ ư ơ n g
+đường	đ ư ờ n g
+đứt	đ ứ t
+e	e
+each	e a c h
+eager	e a g e r
+earlier	e a r l i e r
+earliest	e a r l i e s t
+early	e a r l y
+earned	e a r n e d
+earnest	e a r n e s t
+earth	e a r t h
+easement	e a s e m e n t
+easier	e a s i e r
+easily	e a s i l y
+eating	e a t i n g
+éc	é c
+ecclesiastical	e c c l e s i a s t i c a l
+edinburgh	e d i n b u r g h
+editions	e d i t i o n s
+editor	e d i t o r
+education	e d u c a t i o n
+effect	e f f e c t
+effort	e f f o r t
+efforts	e f f o r t s
+eight	e i g h t
+eighteen	e i g h t e e n
+eighteenth	e i g h t e e n t h
+eighties	e i g h t i e s
+eighty	e i g h t y
+either	e i t h e r
+eked	e k e d
+eking	e k i n g
+elaborate	e l a b o r a t e
+elected	e l e c t e d
+eleven	e l e v e n
+eloquent	e l o q u e n t
+elsewhere	e l s e w h e r e
+em	e m
+employ	e m p l o y
+employed	e m p l o y e d
+employers	e m p l o y e r s
+employment	e m p l o y m e n t
+empowered	e m p o w e r e d
+empowering	e m p o w e r i n g
+én	é n
+enacted	e n a c t e d
+end	e n d
+energy	e n e r g y
+enforcement	e n f o r c e m e n t
+england	e n g l a n d
+english	e n g l i s h
+engraved	e n g r a v e d
+enhancing	e n h a n c i n g
+enjoying	e n j o y i n g
+enlightenment	e n l i g h t e n m e n t
+ennui	e n n u i
+enough	e n o u g h
+ensued	e n s u e d
+entailed	e n t a i l e d
+enter	e n t e r
+entering	e n t e r i n g
+entertained	e n t e r t a i n e d
+enthusiasm	e n t h u s i a s m
+entirely	e n t i r e l y
+entirety	e n t i r e t y
+entrance	e n t r a n c e
+entrusted	e n t r u s t e d
+enumerated	e n u m e r a t e d
+enunciated	e n u n c i a t e d
+èo	è o
+ẻo	ẻ o
+ẹo	ẹ o
+ép	é p
+epoch	e p o c h
+erected	e r e c t e d
+erection	e r e c t i o n
+escape	e s c a p e
+escaped	e s c a p e d
+escorting	e s c o r t i n g
+especially	e s p e c i a l l y
+essential	e s s e n t i a l
+established	e s t a b l i s h e d
+establishments	e s t a b l i s h m e n t s
+estimated	e s t i m a t e d
+ét	é t
+european	e u r o p e a n
+evaded	e v a d e d
+evans	e v a n s
+evasion	e v a s i o n
+even	e v e n
+eventually	e v e n t u a l l y
+ever	e v e r
+every	e v e r y
+everywhere	e v e r y w h e r e
+evidence	e v i d e n c e
+evident	e v i d e n t
+evil	e v i l
+evils	e v i l s
+evince	e v i n c e
+exact	e x a c t
+exacted	e x a c t e d
+exaggerated	e x a g g e r a t e d
+examine	e x a m i n e
+examined	e x a m i n e d
+example	e x a m p l e
+exceeded	e x c e e d e d
+exceedingly	e x c e e d i n g l y
+excellent	e x c e l l e n t
+except	e x c e p t
+exception	e x c e p t i o n
+excess	e x c e s s
+exchequer	e x c h e q u e r
+excuses	e x c u s e s
+execution	e x e c u t i o n
+executions	e x e c u t i o n s
+executive	e x e c u t i v e
+exercise	e x e r c i s e
+exertions	e x e r t i o n s
+exhibit	e x h i b i t
+exhibition	e x h i b i t i o n
+exist	e x i s t
+existed	e x i s t e d
+existing	e x i s t i n g
+exorbitant	e x o r b i t a n t
+expended	e x p e n d e d
+expenditure	e x p e n d i t u r e
+expense	e x p e n s e
+expenses	e x p e n s e s
+expensive	e x p e n s i v e
+experiment	e x p e r i m e n t
+exposed	e x p o s e d
+exposure	e x p o s u r e
+exposures	e x p o s u r e s
+extant	e x t a n t
+extended	e x t e n d e d
+extent	e x t e n t
+extorted	e x t o r t e d
+extortion	e x t o r t i o n
+extravagant	e x t r a v a g a n t
+eye	e y e
+eyes	e y e s
+ê	ê
+ếch	ế c h
+êm	ê m
+ếm	ế m
+ên	ê n
+êp	ê p
+ết	ế t
+f	f
+facility	f a c i l i t y
+fact	f a c t
+failing	f a i l i n g
+fair	f a i r
+fall	f a l l
+falling	f a l l i n g
+families	f a m i l i e s
+famine	f a m i n e
+famous	f a m o u s
+far	f a r
+fault	f a u l t
+favor	f a v o r
+favored	f a v o r e d
+fear	f e a r
+feared	f e a r e d
+features	f e a t u r e s
+february	f e b r u a r y
+fee	f e e
+feelings	f e e l i n g s
+fees	f e e s
+feet	f e e t
+felonies	f e l o n i e s
+felons	f e l o n s
+felony	f e l o n y
+felt	f e l t
+female	f e m a l e
+females	f e m a l e s
+fettered	f e t t e r e d
+few	f e w
+fiction	f i c t i o n
+fields	f i e l d s
+fifteen	f i f t e e n
+fifteenth	f i f t e e n t h
+fifty	f i f t y
+figure	f i g u r e
+figures	f i g u r e s
+filled	f i l l e d
+filthiness	f i l t h i n e s s
+filthy	f i l t h y
+fine	f i n e
+fines	f i n e s
+fire	f i r e
+firearms	f i r e a r m s
+fireplace	f i r e p l a c e
+first	f i r s t
+five	f i v e
+fives	f i v e s
+fixed	f i x e d
+flagrant	f l a g r a n t
+flash	f l a s h
+fleet	f l e e t
+flemish	f l e m i s h
+floor	f l o o r
+flooring	f l o o r i n g
+follow	f o l l o w
+followed	f o l l o w e d
+following	f o l l o w i n g
+food	f o o d
+foolish	f o o l i s h
+foot	f o o t
+footing	f o o t i n g
+for	f o r
+forbidden	f o r b i d d e n
+force	f o r c e
+forced	f o r c e d
+forcible	f o r c i b l e
+forcing	f o r c i n g
+fore	f o r e
+foregoing	f o r e g o i n g
+foreign	f o r e i g n
+forfeited	f o r f e i t e d
+forfeiting	f o r f e i t i n g
+forgery	f o r g e r y
+forks	f o r k s
+form	f o r m
+formal	f o r m a l
+formality	f o r m a l i t y
+former	f o r m e r
+forms	f o r m s
+forster	f o r s t e r
+forth	f o r t h
+forthcoming	f o r t h c o m i n g
+fortunate	f o r t u n a t e
+fortune	f o r t u n e
+forty	f o r t y
+fostered	f o s t e r e d
+foul	f o u l
+found	f o u n d
+founder	f o u n d e r
+founders	f o u n d e r s
+founts	f o u n t s
+four	f o u r
+fourpence	f o u r p e n c e
+fourteen	f o u r t e e n
+fourteenth	f o u r t e e n t h
+framed	f r a m e d
+france	f r a n c e
+fraudulent	f r a u d u l e n t
+free	f r e e
+freely	f r e e l y
+freer	f r e e r
+french	f r e n c h
+frenchman	f r e n c h m a n
+frenchmen	f r e n c h m e n
+frequency	f r e q u e n c y
+frequent	f r e q u e n t
+frequented	f r e q u e n t e d
+frequently	f r e q u e n t l y
+freshly	f r e s h l y
+friday	f r i d a y
+friends	f r i e n d s
+frightful	f r i g h t f u l
+from	f r o m
+front	f r o n t
+fry	f r y
+fuel	f u e l
+full	f u l l
+fully	f u l l y
+functions	f u n c t i o n s
+fund	f u n d
+funds	f u n d s
+furnished	f u r n i s h e d
+furniture	f u r n i t u r e
+further	f u r t h e r
+furthered	f u r t h e r e d
+futility	f u t i l i t y
+future	f u t u r e
+g	g
+ga	g a
+gà	g à
+gả	g ả
+gã	g ã
+gạ	g ạ
+gác	g á c
+gạc	g ạ c
+gạch	g ạ c h
+gai	g a i
+gài	g à i
+gãi	g ã i
+gái	g á i
+gain	g a i n
+gained	g a i n e d
+gallon	g a l l o n
+gam	g a m
+gamble	g a m b l e
+gambling	g a m b l i n g
+game	g a m e
+gan	g a n
+gán	g á n
+gạn	g ạ n
+gang	g a n g
+gàng	g à n g
+ganh	g a n h
+gành	g à n h
+gánh	g á n h
+gao	g a o
+gào	g à o
+gạo	g ạ o
+gáp	g á p
+garnish	g a r n i s h
+gát	g á t
+gạt	g ạ t
+gates	g a t e s
+gatesmen	g a t e s m e n
+gàu	g à u
+gave	g a v e
+gay	g a y
+gảy	g ả y
+gãy	g ã y
+gáy	g á y
+găm	g ă m
+gằm	g ằ m
+gắm	g ắ m
+gặm	g ặ m
+gắn	g ắ n
+gắng	g ắ n g
+gắp	g ắ p
+gặp	g ặ p
+gắt	g ắ t
+gặt	g ặ t
+gầm	g ầ m
+gẫm	g ẫ m
+gấm	g ấ m
+gân	g â n
+gần	g ầ n
+gấp	g ấ p
+gập	g ậ p
+gật	g ậ t
+gấu	g ấ u
+gây	g â y
+gầy	g ầ y
+gẫy	g ẫ y
+gậy	g ậ y
+general	g e n e r a l
+generally	g e n e r a l l y
+generous	g e n e r o u s
+generously	g e n e r o u s l y
+george	g e o r g e
+gerard	g e r a r d
+gering	g e r i n g
+germans	g e r m a n s
+get	g e t
+ghẻ	g h ẻ
+ghé	g h é
+ghem	g h e m
+ghen	g h e n
+ghent	g h e n t
+ghép	g h é p
+ghét	g h é t
+ghẹt	g h ẹ t
+ghê	g h ê
+ghề	g h ề
+ghế	g h ế
+ghên	g h ê n
+ghềnh	g h ề n h
+ghết	g h ế t
+ghi	g h i
+ghì	g h ì
+ghiếc	g h i ế c
+ghiết	g h i ế t
+ghiệt	g h i ệ t
+ghim	g h i m
+ghinh	g h i n h
+ghít	g h í t
+ghồ	g h ồ
+ghớm	g h ớ m
+gi	g i
+gì	g ì
+gia	g i a
+già	g i à
+giả	g i ả
+giã	g i ã
+giá	g i á
+giạ	g i ạ
+giác	g i á c
+giai	g i a i
+giải	g i ả i
+giãi	g i ã i
+giam	g i a m
+giảm	g i ả m
+giám	g i á m
+gian	g i a n
+giàn	g i à n
+giản	g i ả n
+gián	g i á n
+giang	g i a n g
+giảng	g i ả n g
+giáng	g i á n g
+giành	g i à n h
+giao	g i a o
+giáo	g i á o
+giáp	g i á p
+giát	g i á t
+giạt	g i ạ t
+giàu	g i à u
+giày	g i à y
+giắc	g i ắ c
+giặc	g i ặ c
+giăng	g i ă n g
+giằng	g i ằ n g
+giặt	g i ặ t
+giấc	g i ấ c
+giẫm	g i ẫ m
+giấm	g i ấ m
+giậm	g i ậ m
+giận	g i ậ n
+giập	g i ậ p
+giật	g i ậ t
+giấu	g i ấ u
+giậu	g i ậ u
+giây	g i â y
+giẫy	g i ẫ y
+giấy	g i ấ y
+gibes	g i b e s
+gie	g i e
+giẻ	g i ẻ
+gièm	g i è m
+gieo	g i e o
+giép	g i é p
+giê	g i ê
+giêm	g i ê m
+giếm	g i ế m
+giêng	g i ê n g
+giềng	g i ề n g
+giếng	g i ế n g
+giết	g i ế t
+giễu	g i ễ u
+gift	g i f t
+gifts	g i f t s
+giltspur	g i l t s p u r
+gin	g i n
+gìn	g ì n
+giò	g i ò
+giỏ	g i ỏ
+gió	g i ó
+giòi	g i ò i
+giỏi	g i ỏ i
+gióng	g i ó n g
+giọng	g i ọ n g
+gióp	g i ó p
+giọt	g i ọ t
+giô	g i ô
+giốc	g i ố c
+giôn	g i ô n
+giông	g i ô n g
+giống	g i ố n g
+giốt	g i ố t
+giờ	g i ờ
+giở	g i ở
+giới	g i ớ i
+giỡn	g i ỡ n
+gíp	g í p
+gít	g í t
+giu	g i u
+giũ	g i ũ
+giúc	g i ú c
+giục	g i ụ c
+giùm	g i ù m
+giun	g i u n
+giúp	g i ú p
+giữ	g i ữ
+giữa	g i ữ a
+giương	g i ư ơ n g
+giường	g i ư ờ n g
+giựt	g i ự t
+give	g i v e
+given	g i v e n
+gives	g i v e s
+giving	g i v i n g
+gladly	g l a d l y
+glaring	g l a r i n g
+glories	g l o r i e s
+gloucester	g l o u c e s t e r
+go	g o
+gò	g ò
+gõ	g õ
+goá	g o á
+góa	g ó a
+góc	g ó c
+goes	g o e s
+gói	g ó i
+gọi	g ọ i
+going	g o i n g
+gom	g o m
+gọn	g ọ n
+gone	g o n e
+good	g o o d
+góp	g ó p
+got	g o t
+gót	g ó t
+gọt	g ọ t
+gothic	g o t h i c
+governed	g o v e r n e d
+governing	g o v e r n i n g
+government	g o v e r n m e n t
+governor	g o v e r n o r
+gô	g ô
+gồ	g ồ
+gổ	g ổ
+gỗ	g ỗ
+gốc	g ố c
+gộc	g ộ c
+gối	g ố i
+gội	g ộ i
+gồm	g ồ m
+gốm	g ố m
+gôn	g ô n
+gông	g ô n g
+gốp	g ố p
+gộp	g ộ p
+gơ	g ơ
+gở	g ở
+gỡ	g ỡ
+gợi	g ợ i
+gớm	g ớ m
+gợn	g ợ n
+grand	g r a n d
+grant	g r a n t
+granted	g r a n t e d
+grated	g r a t e d
+grave	g r a v e
+great	g r e a t
+greater	g r e a t e r
+greatly	g r e a t l y
+grew	g r e w
+grievous	g r i e v o u s
+griffiths	g r i f f i t h s
+grist	g r i s t
+grog	g r o g
+gross	g r o s s
+grounds	g r o u n d s
+gu	g u
+gù	g ù
+guard	g u a r d
+guards	g u a r d s
+gục	g ụ c
+guessed	g u e s s e d
+gũi	g ũ i
+guilty	g u i l t y
+guinea	g u i n e a
+guineas	g u i n e a s
+gunther	g u n t h e r
+guộc	g u ộ c
+guồng	g u ồ n g
+gúp	g ú p
+gurney	g u r n e y
+gút	g ú t
+gutenberg	g u t e n b e r g
+gừ	g ừ
+gửi	g ử i
+gươm	g ư ơ m
+gương	g ư ơ n g
+gượng	g ư ợ n g
+h	h
+ha	h a
+hà	h à
+hả	h ả
+há	h á
+hạ	h ạ
+habit	h a b i t
+habits	h a b i t s
+habitually	h a b i t u a l l y
+hác	h á c
+hạc	h ạ c
+hách	h á c h
+hạch	h ạ c h
+had	h a d
+hai	h a i
+hài	h à i
+hải	h ả i
+hãi	h ã i
+hái	h á i
+hại	h ạ i
+half	h a l f
+ham	h a m
+hàm	h à m
+hãm	h ã m
+hám	h á m
+hampers	h a m p e r s
+han	h a n
+hàn	h à n
+hãn	h ã n
+hán	h á n
+hạn	h ạ n
+hand	h a n d
+handcuffed	h a n d c u f f e d
+hands	h a n d s
+handsome	h a n d s o m e
+hang	h a n g
+hàng	h à n g
+hạng	h ạ n g
+hanh	h a n h
+hành	h à n h
+hãnh	h ã n h
+hạnh	h ạ n h
+hao	h a o
+hào	h à o
+hảo	h ả o
+hão	h ã o
+háo	h á o
+háp	h á p
+happened	h a p p e n e d
+happens	h a p p e n s
+harassed	h a r a s s e d
+hard	h a r d
+hardened	h a r d e n e d
+hardly	h a r d l y
+has	h a s
+hát	h á t
+hạt	h ạ t
+hatched	h a t c h e d
+hau	h a u
+have	h a v e
+having	h a v i n g
+hay	h a y
+hãy	h ã y
+hắc	h ắ c
+hăm	h ă m
+hằn	h ằ n
+hẳn	h ẳ n
+hẵn	h ẵ n
+hắn	h ắ n
+hăng	h ă n g
+hằng	h ằ n g
+hắt	h ắ t
+hâm	h â m
+hầm	h ầ m
+hẩm	h ẩ m
+hân	h â n
+hấn	h ấ n
+hận	h ậ n
+hấp	h ấ p
+hất	h ấ t
+hâu	h â u
+hầu	h ầ u
+hấu	h ấ u
+hậu	h ậ u
+he	h e
+hè	h è
+hé	h é
+head	h e a d
+headed	h e a d e d
+health	h e a l t h
+heap	h e a p
+hear	h e a r
+heard	h e a r d
+heart	h e a r t
+heat	h e a t
+heated	h e a t e d
+heavier	h e a v i e r
+heaviest	h e a v i e s t
+heavy	h e a v y
+héc	h é c
+heinous	h e i n o u s
+held	h e l d
+help	h e l p
+hem	h e m
+hẻm	h ẻ m
+hèn	h è n
+hẹn	h ẹ n
+hence	h e n c e
+henry	h e n r y
+heo	h e o
+hẻo	h ẻ o
+héo	h é o
+hép	h é p
+hẹp	h ẹ p
+her	h e r
+here	h e r e
+hesitated	h e s i t a t e d
+hét	h é t
+hẹt	h ẹ t
+heterogeneous	h e t e r o g e n e o u s
+hê	h ê
+hề	h ề
+hễ	h ễ
+hệ	h ệ
+hên	h ê n
+hển	h ể n
+hếp	h ế p
+hết	h ế t
+hệt	h ệ t
+hi	h i
+hỉ	h ỉ
+hí	h í
+hia	h i a
+hiềm	h i ề m
+hiểm	h i ể m
+hiếm	h i ế m
+hiên	h i ê n
+hiền	h i ề n
+hiển	h i ể n
+hiến	h i ế n
+hiện	h i ệ n
+hiếp	h i ế p
+hiệp	h i ệ p
+hiểu	h i ể u
+hiếu	h i ế u
+hiệu	h i ệ u
+high	h i g h
+higher	h i g h e r
+highly	h i g h l y
+him	h i m
+himself	h i m s e l f
+hin	h i n
+hinh	h i n h
+hình	h ì n h
+hĩnh	h ĩ n h
+hire	h i r e
+hiring	h i r i n g
+his	h i s
+hít	h í t
+hiu	h i u
+ho	h o
+hò	h ò
+họ	h ọ
+hoa	h o a
+hoà	h o à
+hoạ	h o ạ
+hòa	h ò a
+hỏa	h ỏ a
+hóa	h ó a
+họa	h ọ a
+hoạch	h o ạ c h
+hoài	h o à i
+hoại	h o ạ i
+hoan	h o a n
+hoàn	h o à n
+hoãn	h o ã n
+hoán	h o á n
+hoạn	h o ạ n
+hoang	h o a n g
+hoàng	h o à n g
+hoảng	h o ả n g
+hoành	h o à n h
+hoare	h o a r e
+hoạt	h o ạ t
+hoắc	h o ắ c
+hoặc	h o ặ c
+hóc	h ó c
+học	h ọ c
+hoen	h o e n
+hoi	h o i
+hỏi	h ỏ i
+hói	h ó i
+họi	h ọ i
+hold	h o l d
+holloway	h o l l o w a y
+hòm	h ò m
+home	h o m e
+hon	h o n
+hòn	h ò n
+hòng	h ò n g
+hỏng	h ỏ n g
+họng	h ọ n g
+honorable	h o n o r a b l e
+hóp	h ó p
+họp	h ọ p
+hoped	h o p e d
+horrid	h o r r i d
+horrors	h o r r o r s
+horse	h o r s e
+hót	h ó t
+họt	h ọ t
+hours	h o u r s
+house	h o u s e
+household	h o u s e h o l d
+how	h o w
+howard	h o w a r d
+however	h o w e v e r
+hô	h ô
+hồ	h ồ
+hổ	h ổ
+hỗ	h ỗ
+hố	h ố
+hộ	h ộ
+hốc	h ố c
+hôi	h ô i
+hồi	h ồ i
+hối	h ố i
+hội	h ộ i
+hôm	h ô m
+hôn	h ô n
+hồn	h ồ n
+hổn	h ổ n
+hỗn	h ỗ n
+hông	h ô n g
+hồng	h ồ n g
+hốp	h ố p
+hộp	h ộ p
+hốt	h ố t
+hột	h ộ t
+hở	h ở
+hơi	h ơ i
+hời	h ờ i
+hỡi	h ỡ i
+hợm	h ợ m
+hơn	h ơ n
+hờn	h ờ n
+hớn	h ớ n
+hợp	h ợ p
+hớt	h ớ t
+hợt	h ợ t
+hu	h u
+hù	h ù
+hũ	h ũ
+hú	h ú
+hùa	h ù a
+huấn	h u ấ n
+húc	h ú c
+huệ	h u ệ
+huênh	h u ê n h
+huggin	h u g g i n
+hủi	h ủ i
+hulks	h u l k s
+hum	h u m
+hùm	h ù m
+humanity	h u m a n i t y
+hun	h u n
+hundred	h u n d r e d
+hundreds	h u n d r e d s
+hung	h u n g
+hùng	h ù n g
+huống	h u ố n g
+húp	h ú p
+hụp	h ụ p
+husband	h u s b a n d
+hút	h ú t
+hụt	h ụ t
+huy	h u y
+hủy	h ủ y
+huyên	h u y ê n
+huyền	h u y ề n
+huyễn	h u y ễ n
+huyết	h u y ế t
+huyệt	h u y ệ t
+huynh	h u y n h
+huỳnh	h u ỳ n h
+huýt	h u ý t
+hư	h ư
+hứa	h ứ a
+hực	h ự c
+hưng	h ư n g
+hừng	h ừ n g
+hửng	h ử n g
+hứng	h ứ n g
+hương	h ư ơ n g
+hưởng	h ư ở n g
+hướng	h ư ớ n g
+hươu	h ư ơ u
+hưu	h ư u
+hữu	h ữ u
+hy	h y
+i	i
+ỉ	ỉ
+ĩ	ĩ
+ích	í c h
+idea	i d e a
+ideal	i d e a l
+idle	i d l e
+idleness	i d l e n e s s
+if	i f
+ignored	i g n o r e d
+ii	i i
+ill	i l l
+illegitimate	i l l e g i t i m a t e
+illness	i l l n e s s
+illustrations	i l l u s t r a t i o n s
+im	i m
+imitates	i m i t a t e s
+imitation	i m i t a t i o n
+immediate	i m m e d i a t e
+immured	i m m u r e d
+impecunious	i m p e c u n i o u s
+imperative	i m p e r a t i v e
+imperfect	i m p e r f e c t
+imperfectly	i m p e r f e c t l y
+imperiled	i m p e r i l e d
+imperious	i m p e r i o u s
+important	i m p o r t a n t
+imported	i m p o r t e d
+imposition	i m p o s i t i o n
+impossible	i m p o s s i b l e
+impoverished	i m p o v e r i s h e d
+impressions	i m p r e s s i o n s
+imprisoned	i m p r i s o n e d
+imprisonment	i m p r i s o n m e n t
+improve	i m p r o v e
+improved	i m p r o v e d
+improvement	i m p r o v e m e n t
+in	i n
+inadequacy	i n a d e q u a c y
+inadequate	i n a d e q u a t e
+incarceration	i n c a r c e r a t i o n
+inches	i n c h e s
+inclined	i n c l i n e d
+include	i n c l u d e
+included	i n c l u d e d
+including	i n c l u d i n g
+income	i n c o m e
+incommodious	i n c o m m o d i o u s
+inconvenience	i n c o n v e n i e n c e
+increase	i n c r e a s e
+increased	i n c r e a s e d
+increasing	i n c r e a s i n g
+incredible	i n c r e d i b l e
+incumbent	i n c u m b e n t
+incurred	i n c u r r e d
+indeed	i n d e e d
+indefatigable	i n d e f a t i g a b l e
+independent	i n d e p e n d e n t
+indications	i n d i c a t i o n s
+indifference	i n d i f f e r e n c e
+indiscriminate	i n d i s c r i m i n a t e
+indiscriminately	i n d i s c r i m i n a t e l y
+indisputable	i n d i s p u t a b l e
+individual	i n d i v i d u a l
+individuality	i n d i v i d u a l i t y
+individuals	i n d i v i d u a l s
+industrious	i n d u s t r i o u s
+infants	i n f a n t s
+inferior	i n f e r i o r
+infirmaries	i n f i r m a r i e s
+infirmary	i n f i r m a r y
+inflict	i n f l i c t
+inflicted	i n f l i c t e d
+influence	i n f l u e n c e
+influential	i n f l u e n t i a l
+influx	i n f l u x
+information	i n f o r m a t i o n
+informed	i n f o r m e d
+inmates	i n m a t e s
+inner	i n n e r
+innocent	i n n o c e n t
+inordinately	i n o r d i n a t e l y
+insecure	i n s e c u r e
+inside	i n s i d e
+insist	i n s i s t
+insisted	i n s i s t e d
+insolvent	i n s o l v e n t
+inspect	i n s p e c t
+inspected	i n s p e c t e d
+inspired	i n s p i r e d
+instances	i n s t a n c e s
+instituted	i n s t i t u t e d
+instruct	i n s t r u c t
+instructed	i n s t r u c t e d
+instructions	i n s t r u c t i o n s
+insuperable	i n s u p e r a b l e
+insured	i n s u r e d
+integrity	i n t e g r i t y
+intended	i n t e n d e d
+intercourse	i n t e r c o u r s e
+interest	i n t e r e s t
+interior	i n t e r i o r
+internal	i n t e r n a l
+into	i n t o
+introduce	i n t r o d u c e
+introduced	i n t r o d u c e d
+introducing	i n t r o d u c i n g
+intrusted	i n t r u s t e d
+invariable	i n v a r i a b l e
+invariably	i n v a r i a b l y
+invention	i n v e n t i o n
+investigated	i n v e s t i g a t e d
+íp	í p
+iron	i r o n
+ironing	i r o n i n g
+irons	i r o n s
+irrational	i r r a t i o n a l
+is	i s
+islington	i s l i n g t o n
+issued	i s s u e d
+it	i t
+ít	í t
+italian	i t a l i a n
+items	i t e m s
+its	i t s
+itself	i t s e l f
+jacobus	j a c o b u s
+jacques	j a c q u e s
+jail	j a i l
+jailer	j a i l e r
+jails	j a i l s
+jeopardized	j e o p a r d i z e d
+jollity	j o l l i t y
+journalists	j o u r n a l i s t s
+journals	j o u r n a l s
+journeys	j o u r n e y s
+judge	j u d g e
+judgment	j u d g m e n t
+judice	j u d i c e
+june	j u n e
+junior	j u n i o r
+juries	j u r i e s
+jurisdiction	j u r i s d i c t i o n
+jury	j u r y
+just	j u s t
+justice	j u s t i c e
+justices	j u s t i c e s
+justly	j u s t l y
+juveniles	j u v e n i l e s
+ka	k a
+kát	k á t
+ke	k e
+kè	k è
+kẻ	k ẻ
+kẽ	k ẽ
+ké	k é
+keep	k e e p
+keeper	k e e p e r
+keepers	k e e p e r s
+kem	k e m
+kèm	k è m
+kém	k é m
+ken	k e n
+kèn	k è n
+keo	k e o
+kèo	k è o
+kẻo	k ẻ o
+kéo	k é o
+kẹp	k ẹ p
+kept	k e p t
+kẹt	k ẹ t
+key	k e y
+kê	k ê
+kề	k ề
+kể	k ể
+kế	k ế
+kềm	k ề m
+kên	k ê n
+kênh	k ê n h
+kết	k ế t
+kêu	k ê u
+kg	k g
+kha	k h a
+khả	k h ả
+khá	k h á
+khác	k h á c
+khạc	k h ạ c
+khách	k h á c h
+khai	k h a i
+khải	k h ả i
+kham	k h a m
+khảm	k h ả m
+khám	k h á m
+khan	k h a n
+khản	k h ả n
+kháng	k h á n g
+khanh	k h a n h
+khánh	k h á n h
+khao	k h a o
+khảo	k h ả o
+khạo	k h ạ o
+khát	k h á t
+kháu	k h á u
+khay	k h a y
+khảy	k h ả y
+khắc	k h ắ c
+khăn	k h ă n
+khăng	k h ă n g
+khắng	k h ắ n g
+khắp	k h ắ p
+khắt	k h ắ t
+khâm	k h â m
+khẩn	k h ẩ n
+khấn	k h ấ n
+khấp	k h ấ p
+khập	k h ậ p
+khất	k h ấ t
+khẩu	k h ẩ u
+khe	k h e
+khẽ	k h ẽ
+khen	k h e n
+khéo	k h é o
+khép	k h é p
+khét	k h é t
+khê	k h ê
+khế	k h ế
+khễnh	k h ễ n h
+khều	k h ề u
+khi	k h i
+khí	k h í
+khía	k h í a
+khích	k h í c h
+khiêm	k h i ê m
+khiếm	k h i ế m
+khiên	k h i ê n
+khiển	k h i ể n
+khiến	k h i ế n
+khiêng	k h i ê n g
+khiễng	k h i ễ n g
+khiếp	k h i ế p
+khiết	k h i ế t
+khiêu	k h i ê u
+khiếu	k h i ế u
+khin	k h i n
+khinh	k h i n h
+khỉnh	k h ỉ n h
+khít	k h í t
+khịt	k h ị t
+kho	k h o
+khó	k h ó
+khoa	k h o a
+khỏa	k h ỏ a
+khóa	k h ó a
+khoác	k h o á c
+khoải	k h o ả i
+khoái	k h o á i
+khoan	k h o a n
+khoản	k h o ả n
+khoang	k h o a n g
+khoảng	k h o ả n g
+khoanh	k h o a n h
+khoảnh	k h o ả n h
+khoát	k h o á t
+khoăn	k h o ă n
+khoắt	k h o ắ t
+khóc	k h ó c
+khoe	k h o e
+khỏe	k h ỏ e
+khóe	k h ó e
+khoen	k h o e n
+khoét	k h o é t
+khỏi	k h ỏ i
+khói	k h ó i
+khom	k h o m
+khòm	k h ò m
+khóm	k h ó m
+khóp	k h ó p
+khô	k h ô
+khổ	k h ổ
+khố	k h ố
+khốc	k h ố c
+khôi	k h ô i
+khối	k h ố i
+khôn	k h ô n
+khốn	k h ố n
+không	k h ô n g
+khổng	k h ổ n g
+khống	k h ố n g
+khờ	k h ờ
+khơi	k h ơ i
+khởi	k h ở i
+khớp	k h ớ p
+khu	k h u
+khua	k h u a
+khuân	k h u â n
+khuất	k h u ấ t
+khuây	k h u â y
+khuấy	k h u ấ y
+khúc	k h ú c
+khui	k h u i
+khung	k h u n g
+khùng	k h ù n g
+khủng	k h ủ n g
+khuôn	k h u ô n
+khuya	k h u y a
+khuyên	k h u y ê n
+khuyến	k h u y ế n
+khuyết	k h u y ế t
+khuynh	k h u y n h
+khuỷu	k h u ỷ u
+khử	k h ử
+khứ	k h ứ
+khước	k h ư ớ c
+khướt	k h ư ớ t
+ki	k i
+kia	k i a
+kìa	k ì a
+kích	k í c h
+kịch	k ị c h
+kiêm	k i ê m
+kiềm	k i ề m
+kiểm	k i ể m
+kiếm	k i ế m
+kiên	k i ê n
+kiến	k i ế n
+kiện	k i ệ n
+kiêng	k i ê n g
+kiềng	k i ề n g
+kiếp	k i ế p
+kiệt	k i ệ t
+kiêu	k i ê u
+kiều	k i ề u
+kiểu	k i ể u
+kiếu	k i ế u
+kiệu	k i ệ u
+killed	k i l l e d
+kim	k i m
+kìm	k ì m
+kin	k i n
+kín	k í n
+kind	k i n d
+kindness	k i n d n e s s
+king	k i n g
+kingdom	k i n g d o m
+kinh	k i n h
+kính	k í n h
+kíp	k í p
+kịp	k ị p
+kít	k í t
+kịt	k ị t
+knight	k n i g h t
+knives	k n i v e s
+knowledge	k n o w l e d g e
+known	k n o w n
+kút	k ú t
+kỳ	k ỳ
+kỷ	k ỷ
+kỹ	k ỹ
+ký	k ý
+kỵ	k ỵ
+la	l a
+là	l à
+lả	l ả
+lã	l ã
+lá	l á
+lạ	l ạ
+labor	l a b o r
+lác	l á c
+lạc	l ạ c
+lách	l á c h
+lad	l a d
+lady	l a d y
+lai	l a i
+lãi	l ã i
+lái	l á i
+lại	l ạ i
+laid	l a i d
+lain	l a i n
+lam	l a m
+làm	l à m
+lảm	l ả m
+lãm	l ã m
+lạm	l ạ m
+lamentable	l a m e n t a b l e
+lan	l a n
+làn	l à n
+lang	l a n g
+làng	l à n g
+lảng	l ả n g
+lãng	l ã n g
+láng	l á n g
+lạng	l ạ n g
+language	l a n g u a g e
+lanh	l a n h
+lành	l à n h
+lãnh	l ã n h
+lánh	l á n h
+lạnh	l ạ n h
+lao	l a o
+lảo	l ả o
+lão	l ã o
+láo	l á o
+láp	l á p
+lạp	l ạ p
+large	l a r g e
+largely	l a r g e l y
+larger	l a r g e r
+largest	l a r g e s t
+last	l a s t
+lasted	l a s t e d
+lát	l á t
+lạt	l ạ t
+late	l a t e
+later	l a t e r
+lateral	l a t e r a l
+laterally	l a t e r a l l y
+latter	l a t t e r
+latterly	l a t t e r l y
+lau	l a u
+laudable	l a u d a b l e
+laundry	l a u n d r y
+law	l a w
+lawful	l a w f u l
+lay	l a y
+lạy	l ạ y
+lắc	l ắ c
+lăm	l ă m
+lằm	l ằ m
+lắm	l ắ m
+lăn	l ă n
+lằn	l ằ n
+lặn	l ặ n
+lăng	l ă n g
+lẳng	l ẳ n g
+lắng	l ắ n g
+lặng	l ặ n g
+lắp	l ắ p
+lặp	l ặ p
+lâm	l â m
+lầm	l ầ m
+lẩm	l ẩ m
+lẫm	l ẫ m
+lấm	l ấ m
+lân	l â n
+lần	l ầ n
+lẩn	l ẩ n
+lẫn	l ẫ n
+lấn	l ấ n
+lận	l ậ n
+lâng	l â n g
+lấp	l ấ p
+lập	l ậ p
+lật	l ậ t
+lâu	l â u
+lầu	l ầ u
+lậu	l ậ u
+lây	l â y
+lầy	l ầ y
+lẩy	l ẩ y
+lẫy	l ẫ y
+lấy	l ấ y
+le	l e
+lè	l è
+lẻ	l ẻ
+lẽ	l ẽ
+lẹ	l ẹ
+leaders	l e a d e r s
+leading	l e a d i n g
+learning	l e a r n i n g
+least	l e a s t
+leave	l e a v e
+leaves	l e a v e s
+leaving	l e a v i n g
+léc	l é c
+led	l e d
+leew	l e e w
+left	l e f t
+legacies	l e g a c i e s
+legible	l e g i b l e
+legislative	l e g i s l a t i v e
+legitimate	l e g i t i m a t e
+legs	l e g s
+lem	l e m
+len	l e n
+lẻn	l ẻ n
+lén	l é n
+leo	l e o
+lẻo	l ẻ o
+lẽo	l ẽ o
+léo	l é o
+lép	l é p
+less	l e s s
+lessened	l e s s e n e d
+lesser	l e s s e r
+lessons	l e s s o n s
+let	l e t
+lét	l é t
+letter	l e t t e r
+letterpress	l e t t e r p r e s s
+letters	l e t t e r s
+letting	l e t t i n g
+lewdness	l e w d n e s s
+lê	l ê
+lề	l ề
+lể	l ể
+lễ	l ễ
+lế	l ế
+lệ	l ệ
+lệch	l ệ c h
+lên	l ê n
+lênh	l ê n h
+lệnh	l ệ n h
+lết	l ế t
+lêu	l ê u
+lều	l ề u
+li	l i
+lì	l ì
+lia	l i a
+lìa	l ì a
+libels	l i b e l s
+liberal	l i b e r a l
+liberate	l i b e r a t e
+liberty	l i b e r t y
+líc	l í c
+lịch	l ị c h
+lie	l i e
+liếc	l i ế c
+liêm	l i ê m
+liềm	l i ề m
+liếm	l i ế m
+liệm	l i ệ m
+liên	l i ê n
+liền	l i ề n
+liêng	l i ê n g
+liệng	l i ệ n g
+liệt	l i ệ t
+liêu	l i ê u
+liều	l i ề u
+liễu	l i ễ u
+liệu	l i ệ u
+life	l i f e
+light	l i g h t
+lighted	l i g h t e d
+like	l i k e
+lim	l i m
+lìm	l ì m
+lỉm	l ỉ m
+lịm	l ị m
+limbo	l i m b o
+limitation	l i m i t a t i o n
+limited	l i m i t e d
+limits	l i m i t s
+line	l i n e
+lines	l i n e s
+linh	l i n h
+lình	l ì n h
+lĩnh	l ĩ n h
+lính	l í n h
+lining	l i n i n g
+líp	l í p
+liquor	l i q u o r
+liquors	l i q u o r s
+list	l i s t
+lít	l í t
+little	l i t t l e
+liu	l i u
+líu	l í u
+live	l i v e
+lived	l i v e d
+lively	l i v e l y
+living	l i v i n g
+lo	l o
+lò	l ò
+ló	l ó
+lọ	l ọ
+loa	l o a
+lòa	l ò a
+lõa	l õ a
+loaded	l o a d e d
+loài	l o à i
+loại	l o ạ i
+loan	l o a n
+loàn	l o à n
+loạn	l o ạ n
+loáng	l o á n g
+loạng	l o ạ n g
+loát	l o á t
+loạt	l o ạ t
+lóc	l ó c
+lọc	l ọ c
+local	l o c a l
+locked	l o c k e d
+lodge	l o d g e
+lodged	l o d g e d
+lodger	l o d g e r
+lodging	l o d g i n g
+lòe	l ò e
+lóe	l ó e
+loét	l o é t
+loi	l o i
+lòi	l ò i
+lỏi	l ỏ i
+lói	l ó i
+lọi	l ọ i
+lom	l o m
+lõm	l õ m
+lọn	l ọ n
+london	l o n d o n
+long	l o n g
+lòng	l ò n g
+lỏng	l ỏ n g
+lõng	l õ n g
+lóng	l ó n g
+lọng	l ọ n g
+longer	l o n g e r
+longman	l o n g m a n
+look	l o o k
+looking	l o o k i n g
+lord	l o r d
+lost	l o s t
+lót	l ó t
+lọt	l ọ t
+low	l o w
+lower	l o w e r
+lowest	l o w e s t
+lô	l ô
+lồ	l ồ
+lỗ	l ỗ
+lố	l ố
+lộ	l ộ
+lốc	l ố c
+lộc	l ộ c
+lôi	l ô i
+lỗi	l ỗ i
+lối	l ố i
+lội	l ộ i
+lôm	l ô m
+lôn	l ô n
+lộn	l ộ n
+lông	l ô n g
+lồng	l ồ n g
+lộng	l ộ n g
+lốt	l ố t
+lột	l ộ t
+lơ	l ơ
+lờ	l ờ
+lở	l ở
+lỡ	l ỡ
+lơi	l ơ i
+lời	l ờ i
+lợi	l ợ i
+lởm	l ở m
+lợm	l ợ m
+lờn	l ờ n
+lớn	l ớ n
+lớp	l ớ p
+lợp	l ợ p
+lu	l u
+lũ	l ũ
+lùa	l ù a
+lúa	l ú a
+lụa	l ụ a
+luân	l u â n
+luận	l u ậ n
+luật	l u ậ t
+lúc	l ú c
+lục	l ụ c
+luckless	l u c k l e s s
+ludgate	l u d g a t e
+lui	l u i
+lùi	l ù i
+lụi	l ụ i
+lum	l u m
+lùm	l ù m
+lun	l u n
+lún	l ú n
+lụn	l ụ n
+lundy	l u n d y
+lung	l u n g
+lùng	l ù n g
+lủng	l ủ n g
+lũng	l ũ n g
+lúng	l ú n g
+lụng	l ụ n g
+luộc	l u ộ c
+luôn	l u ô n
+luồn	l u ồ n
+luồng	l u ồ n g
+luống	l u ố n g
+lúp	l ú p
+lút	l ú t
+lụt	l ụ t
+luxury	l u x u r y
+luỵ	l u ỵ
+lũy	l ũ y
+lúy	l ú y
+lụy	l ụ y
+luyến	l u y ế n
+luyện	l u y ệ n
+lư	l ư
+lữ	l ữ
+lự	l ự
+lừa	l ừ a
+lửa	l ử a
+lữa	l ữ a
+lứa	l ứ a
+lựa	l ự a
+lực	l ự c
+lưng	l ư n g
+lừng	l ừ n g
+lửng	l ử n g
+lược	l ư ợ c
+lười	l ư ờ i
+lưỡi	l ư ỡ i
+lưới	l ư ớ i
+lượm	l ư ợ m
+lượn	l ư ợ n
+lương	l ư ơ n g
+lường	l ư ờ n g
+lưỡng	l ư ỡ n g
+lượng	l ư ợ n g
+lướt	l ư ớ t
+lượt	l ư ợ t
+lưu	l ư u
+lựu	l ự u
+ly	l y
+lỳ	l ỳ
+lý	l ý
+lỵ	l ỵ
+m	m
+ma	m a
+mà	m à
+mả	m ả
+mã	m ã
+má	m á
+mạ	m ạ
+mác	m á c
+mạc	m ạ c
+mách	m á c h
+mạch	m ạ c h
+machine	m a c h i n e
+machinery	m a c h i n e r y
+made	m a d e
+magistrates	m a g i s t r a t e s
+magnates	m a g n a t e s
+mai	m a i
+mài	m à i
+mải	m ả i
+mãi	m ã i
+mái	m á i
+mại	m ạ i
+maintained	m a i n t a i n e d
+maintenance	m a i n t e n a n c e
+maintz	m a i n t z
+maison	m a i s o n
+make	m a k e
+making	m a k i n g
+male	m a l e
+males	m a l e s
+maliciously	m a l i c i o u s l y
+malpractices	m a l p r a c t i c e s
+mam	m a m
+man	m a n
+màn	m à n
+mãn	m ã n
+mạn	m ạ n
+manacling	m a n a c l i n g
+manage	m a n a g e
+managed	m a n a g e d
+management	m a n a g e m e n t
+managers	m a n a g e r s
+mang	m a n g
+màng	m à n g
+mảng	m ả n g
+máng	m á n g
+mạng	m ạ n g
+manh	m a n h
+mảnh	m ả n h
+mãnh	m ã n h
+mánh	m á n h
+mạnh	m ạ n h
+manifold	m a n i f o l d
+manner	m a n n e r
+manners	m a n n e r s
+manufacture	m a n u f a c t u r e
+many	m a n y
+mão	m ã o
+mạo	m ạ o
+máp	m á p
+mạp	m ạ p
+margin	m a r g i n
+marriage	m a r r i a g e
+marshal	m a r s h a l
+marshalsea	m a r s h a l s e a
+master	m a s t e r
+mát	m á t
+mạt	m ạ t
+material	m a t e r i a l
+materially	m a t e r i a l l y
+materials	m a t e r i a l s
+matron	m a t r o n
+matter	m a t t e r
+matters	m a t t e r s
+mau	m a u
+màu	m à u
+máu	m á u
+may	m a y
+mày	m à y
+máy	m á y
+mắc	m ắ c
+mặc	m ặ c
+măn	m ă n
+mắn	m ắ n
+mặn	m ặ n
+mắng	m ắ n g
+mắt	m ắ t
+mặt	m ặ t
+mâm	m â m
+mầm	m ầ m
+mẫm	m ẫ m
+mẩn	m ẩ n
+mẫn	m ẫ n
+mấp	m ấ p
+mập	m ậ p
+mất	m ấ t
+mật	m ậ t
+mâu	m â u
+mầu	m ầ u
+mẩu	m ẩ u
+mẫu	m ẫ u
+mấu	m ấ u
+mây	m â y
+mầy	m ầ y
+mẩy	m ẩ y
+mấy	m ấ y
+me	m e
+mè	m è
+mẻ	m ẻ
+mẽ	m ẽ
+mé	m é
+mẹ	m ẹ
+meaning	m e a n i n g
+means	m e a n s
+measured	m e a s u r e d
+meat	m e a t
+méc	m é c
+mell	m e l l
+mem	m e m
+members	m e m b e r s
+men	m e n
+mental	m e n t a l
+mentioned	m e n t i o n e d
+mentions	m e n t i o n s
+meo	m e o
+mèo	m è o
+méo	m é o
+mẹo	m ẹ o
+mép	m é p
+merely	m e r e l y
+merriment	m e r r i m e n t
+messrs	m e s s r s
+mét	m é t
+metal	m e t a l
+method	m e t h o d
+methods	m e t h o d s
+metropolis	m e t r o p o l i s
+metropolitan	m e t r o p o l i t a n
+mê	m ê
+mềm	m ề m
+mên	m ê n
+mền	m ề n
+mến	m ế n
+mênh	m ê n h
+mệnh	m ệ n h
+mết	m ế t
+mệt	m ệ t
+mi	m i
+mì	m ì
+mỉ	m ỉ
+mí	m í
+mị	m ị
+mia	m i a
+mỉa	m ỉ a
+mích	m í c h
+middle	m i d d l e
+middlesex	m i d d l e s e x
+miệc	m i ệ c
+miên	m i ê n
+miền	m i ề n
+miễn	m i ễ n
+miến	m i ế n
+miện	m i ệ n
+miếng	m i ế n g
+miệng	m i ệ n g
+miệt	m i ệ t
+miêu	m i ê u
+miễu	m i ễ u
+miếu	m i ế u
+might	m i g h t
+miles	m i l e s
+mill	m i l l
+millbank	m i l l b a n k
+miller	m i l l e r
+millstones	m i l l s t o n e s
+mim	m i m
+mỉm	m ỉ m
+mím	m í m
+min	m i n
+mịn	m ị n
+minh	m i n h
+mình	m ì n h
+míp	m í p
+misapprehension	m i s a p p r e h e n s i o n
+mischief	m i s c h i e f
+misconduct	m i s c o n d u c t
+misdemeanant	m i s d e m e a n a n t
+misdemeanants	m i s d e m e a n a n t s
+misdemeanors	m i s d e m e a n o r s
+miserable	m i s e r a b l e
+miserably	m i s e r a b l y
+mismanagement	m i s m a n a g e m e n t
+missal	m i s s a l
+missals	m i s s a l s
+mistaken	m i s t a k e n
+misunderstood	m i s u n d e r s t o o d
+mít	m í t
+mịt	m ị t
+mix	m i x
+mixed	m i x e d
+mo	m o
+mò	m ò
+mỏ	m ỏ
+mó	m ó
+móc	m ó c
+mọc	m ọ c
+mode	m o d e
+model	m o d e l
+modern	m o d e r n
+modified	m o d i f i e d
+mỏi	m ỏ i
+mọi	m ọ i
+mỏm	m ỏ m
+mon	m o n
+mòn	m ò n
+món	m ó n
+mọn	m ọ n
+monday	m o n d a y
+money	m o n e y
+mong	m o n g
+mòng	m ò n g
+mỏng	m ỏ n g
+móng	m ó n g
+mọng	m ọ n g
+monies	m o n i e s
+monopolize	m o n o p o l i z e
+month	m o n t h
+months	m o n t h s
+moonshine	m o o n s h i n e
+mọp	m ọ p
+mops	m o p s
+moral	m o r a l
+morals	m o r a l s
+more	m o r e
+morning	m o r n i n g
+most	m o s t
+mót	m ó t
+mọt	m ọ t
+motives	m o t i v e s
+movable	m o v a b l e
+moving	m o v i n g
+mô	m ô
+mồ	m ồ
+mổ	m ổ
+mộ	m ộ
+mốc	m ố c
+mộc	m ộ c
+môi	m ô i
+mồi	m ồ i
+mỗi	m ỗ i
+mối	m ố i
+mồm	m ồ m
+môn	m ô n
+mồn	m ồ n
+mông	m ô n g
+mồng	m ồ n g
+mộng	m ộ n g
+mốp	m ố p
+mốt	m ố t
+một	m ộ t
+mơ	m ơ
+mờ	m ờ
+mở	m ở
+mỡ	m ỡ
+mời	m ờ i
+mới	m ớ i
+mớm	m ớ m
+mởn	m ở n
+mr	m r
+mrs	m r s
+mu	m u
+mù	m ù
+mủ	m ủ
+mũ	m ũ
+mụ	m ụ
+mua	m u a
+mùa	m ù a
+múa	m ú a
+múc	m ú c
+mục	m ụ c
+much	m u c h
+mud	m u d
+mùi	m ù i
+mủi	m ủ i
+mũi	m ũ i
+multiplied	m u l t i p l i e d
+mun	m u n
+mùng	m ù n g
+muỗi	m u ỗ i
+muối	m u ố i
+muội	m u ộ i
+muôn	m u ô n
+muốn	m u ố n
+muộn	m u ộ n
+muông	m u ô n g
+muỗng	m u ỗ n g
+must	m u s t
+mút	m ú t
+mụt	m ụ t
+mute	m u t e
+mưa	m ư a
+mửa	m ử a
+mức	m ứ c
+mực	m ự c
+mừng	m ừ n g
+mươi	m ư ơ i
+mười	m ư ờ i
+mướn	m ư ớ n
+mượn	m ư ợ n
+mương	m ư ơ n g
+mướt	m ư ớ t
+mượt	m ư ợ t
+mưu	m ư u
+my	m y
+mỹ	m ỹ
+na	n a
+nả	n ả
+nã	n ã
+ná	n á
+nạ	n ạ
+nác	n á c
+nách	n á c h
+nai	n a i
+nài	n à i
+nại	n ạ i
+nails	n a i l s
+nakedness	n a k e d n e s s
+nam	n a m
+nám	n á m
+nạm	n ạ m
+name	n a m e
+named	n a m e d
+names	n a m e s
+nan	n a n
+nàn	n à n
+nản	n ả n
+nán	n á n
+nạn	n ạ n
+nang	n a n g
+nàng	n à n g
+nanh	n a n h
+nao	n a o
+nào	n à o
+não	n ã o
+náo	n á o
+náp	n á p
+nạp	n ạ p
+narrow	n a r r o w
+narrowed	n a r r o w e d
+narrowly	n a r r o w l y
+nát	n á t
+nạt	n ạ t
+national	n a t i o n a l
+nations	n a t i o n s
+natural	n a t u r a l
+nature	n a t u r e
+náu	n á u
+nay	n a y
+này	n à y
+nảy	n ả y
+nãy	n ã y
+nặc	n ặ c
+năm	n ă m
+nằm	n ằ m
+nắm	n ắ m
+năn	n ă n
+nắn	n ắ n
+nặn	n ặ n
+năng	n ă n g
+nắng	n ắ n g
+nặng	n ặ n g
+nắp	n ắ p
+nấc	n ấ c
+nấm	n ấ m
+nần	n ầ n
+nâng	n â n g
+nấng	n ấ n g
+nấp	n ấ p
+nập	n ậ p
+nâu	n â u
+nấu	n ấ u
+nây	n â y
+nẩy	n ẩ y
+nấy	n ấ y
+ne	n e
+nẻ	n ẻ
+né	n é
+near	n e a r
+nearly	n e a r l y
+necessaries	n e c e s s a r i e s
+necessary	n e c e s s a r y
+necessity	n e c e s s i t y
+neck	n e c k
+need	n e e d
+needy	n e e d y
+neglect	n e g l e c t
+neglected	n e g l e c t e d
+neild	n e i l d
+nem	n e m
+ném	n é m
+nén	n é n
+neo	n e o
+nẻo	n ẻ o
+nép	n é p
+net	n e t
+nét	n é t
+nẹt	n ẹ t
+netherlands	n e t h e r l a n d s
+never	n e v e r
+nevertheless	n e v e r t h e l e s s
+new	n e w
+newgate	n e w g a t e
+newman	n e w m a n
+newspaper	n e w s p a p e r
+next	n e x t
+nê	n ê
+nề	n ề
+nể	n ể
+nệ	n ệ
+nếm	n ế m
+nên	n ê n
+nền	n ề n
+nếp	n ế p
+nết	n ế t
+nêu	n ê u
+nếu	n ế u
+nga	n g a
+ngà	n g à
+ngả	n g ả
+ngã	n g ã
+ngác	n g á c
+ngạc	n g ạ c
+ngách	n g á c h
+ngạch	n g ạ c h
+ngai	n g a i
+ngài	n g à i
+ngải	n g ả i
+ngại	n g ạ i
+ngàn	n g à n
+ngán	n g á n
+ngạn	n g ạ n
+ngang	n g a n g
+ngàng	n g à n g
+ngãng	n g ã n g
+ngành	n g à n h
+ngạnh	n g ạ n h
+ngao	n g a o
+ngào	n g à o
+ngạo	n g ạ o
+ngát	n g á t
+ngạt	n g ạ t
+ngay	n g a y
+ngày	n g à y
+ngăm	n g ă m
+ngắm	n g ắ m
+ngăn	n g ă n
+ngắn	n g ắ n
+ngắt	n g ắ t
+ngặt	n g ặ t
+ngâm	n g â m
+ngầm	n g ầ m
+ngẫm	n g ẫ m
+ngấm	n g ấ m
+ngậm	n g ậ m
+ngân	n g â n
+ngần	n g ầ n
+ngẩn	n g ẩ n
+ngẩng	n g ẩ n g
+ngập	n g ậ p
+ngất	n g ấ t
+ngầu	n g ầ u
+ngẫu	n g ẫ u
+ngấu	n g ấ u
+ngây	n g â y
+ngấy	n g ấ y
+ngậy	n g ậ y
+nghe	n g h e
+nghé	n g h é
+nghẽn	n g h ẽ n
+nghén	n g h é n
+nghèo	n g h è o
+nghẹt	n g h ẹ t
+nghề	n g h ề
+nghễ	n g h ễ
+nghế	n g h ế
+nghệ	n g h ệ
+nghênh	n g h ê n h
+nghễnh	n g h ễ n h
+nghêu	n g h ê u
+nghi	n g h i
+nghỉ	n g h ỉ
+nghĩ	n g h ĩ
+nghị	n g h ị
+nghĩa	n g h ĩ a
+nghịch	n g h ị c h
+nghiêm	n g h i ê m
+nghiệm	n g h i ệ m
+nghiên	n g h i ê n
+nghiền	n g h i ề n
+nghiến	n g h i ế n
+nghiện	n g h i ệ n
+nghiêng	n g h i ê n g
+nghiệp	n g h i ệ p
+nghiệt	n g h i ệ t
+nghìn	n g h ì n
+ngò	n g ò
+ngỏ	n g ỏ
+ngõ	n g õ
+ngó	n g ó
+ngoa	n g o a
+ngoai	n g o a i
+ngoài	n g o à i
+ngoại	n g o ạ i
+ngoan	n g o a n
+ngoãn	n g o ã n
+ngoảnh	n g o ả n h
+ngóc	n g ó c
+ngọc	n g ọ c
+ngòi	n g ò i
+ngon	n g o n
+ngón	n g ó n
+ngọn	n g ọ n
+ngóng	n g ó n g
+ngọng	n g ọ n g
+ngót	n g ó t
+ngọt	n g ọ t
+ngô	n g ô
+ngỗ	n g ỗ
+ngộ	n g ộ
+ngốc	n g ố c
+ngôi	n g ô i
+ngồi	n g ồ i
+ngôn	n g ô n
+ngổn	n g ổ n
+ngông	n g ô n g
+ngộp	n g ộ p
+ngột	n g ộ t
+ngơ	n g ơ
+ngờ	n g ờ
+ngỡ	n g ỡ
+ngớ	n g ớ
+ngơi	n g ơ i
+ngời	n g ờ i
+ngợi	n g ợ i
+ngớt	n g ớ t
+ngu	n g u
+ngủ	n g ủ
+ngũ	n g ũ
+ngụ	n g ụ
+ngục	n g ụ c
+ngủi	n g ủ i
+ngụm	n g ụ m
+ngùng	n g ù n g
+nguôi	n g u ô i
+nguội	n g u ộ i
+nguồn	n g u ồ n
+ngút	n g ú t
+nguy	n g u y
+ngụy	n g ụ y
+nguyên	n g u y ê n
+nguyền	n g u y ề n
+nguyện	n g u y ệ n
+nguyệt	n g u y ệ t
+ngư	n g ư
+ngữ	n g ữ
+ngự	n g ự
+ngừa	n g ừ a
+ngửa	n g ử a
+ngứa	n g ứ a
+ngựa	n g ự a
+ngực	n g ự c
+ngửi	n g ử i
+ngưng	n g ư n g
+ngừng	n g ừ n g
+ngước	n g ư ớ c
+ngược	n g ư ợ c
+ngươi	n g ư ơ i
+người	n g ư ờ i
+ngưỡng	n g ư ỡ n g
+ngượng	n g ư ợ n g
+nha	n h a
+nhà	n h à
+nhả	n h ả
+nhã	n h ã
+nhá	n h á
+nhác	n h á c
+nhạc	n h ạ c
+nhai	n h a i
+nhái	n h á i
+nham	n h a m
+nhàm	n h à m
+nhảm	n h ả m
+nhan	n h a n
+nhàn	n h à n
+nhản	n h ả n
+nhạn	n h ạ n
+nhang	n h a n g
+nhàng	n h à n g
+nhanh	n h a n h
+nhánh	n h á n h
+nhạnh	n h ạ n h
+nhao	n h a o
+nhào	n h à o
+nhạo	n h ạ o
+nháp	n h á p
+nhát	n h á t
+nhạt	n h ạ t
+nhau	n h a u
+nhàu	n h à u
+nhảy	n h ả y
+nháy	n h á y
+nhạy	n h ạ y
+nhắc	n h ắ c
+nhằm	n h ằ m
+nhắm	n h ắ m
+nhăn	n h ă n
+nhằn	n h ằ n
+nhẵn	n h ẵ n
+nhắn	n h ắ n
+nhặn	n h ặ n
+nhăng	n h ă n g
+nhặng	n h ặ n g
+nhắt	n h ắ t
+nhặt	n h ặ t
+nhấc	n h ấ c
+nhầm	n h ầ m
+nhấm	n h ấ m
+nhậm	n h ậ m
+nhân	n h â n
+nhẫn	n h ẫ n
+nhấn	n h ấ n
+nhận	n h ậ n
+nhấp	n h ấ p
+nhập	n h ậ p
+nhất	n h ấ t
+nhật	n h ậ t
+nhẩu	n h ẩ u
+nhe	n h e
+nhẹ	n h ẹ
+nhen	n h e n
+nhẹn	n h ẹ n
+nheo	n h e o
+nhẽo	n h ẽ o
+nhện	n h ệ n
+nhi	n h i
+nhì	n h ì
+nhỉ	n h ỉ
+nhí	n h í
+nhị	n h ị
+nhiếc	n h i ế c
+nhiễm	n h i ễ m
+nhiệm	n h i ệ m
+nhiên	n h i ê n
+nhiếp	n h i ế p
+nhiệt	n h i ệ t
+nhiêu	n h i ê u
+nhiều	n h i ề u
+nhiễu	n h i ễ u
+nhim	n h i m
+nhím	n h í m
+nhìn	n h ì n
+nhịn	n h ị n
+nhịp	n h ị p
+nho	n h o
+nhỏ	n h ỏ
+nhó	n h ó
+nhọ	n h ọ
+nhòa	n h ò a
+nhoáng	n h o á n g
+nhọc	n h ọ c
+nhóm	n h ó m
+nhọn	n h ọ n
+nhót	n h ó t
+nhọt	n h ọ t
+nhô	n h ô
+nhổ	n h ổ
+nhố	n h ố
+nhồi	n h ồ i
+nhối	n h ố i
+nhộn	n h ộ n
+nhông	n h ô n g
+nhốt	n h ố t
+nhơ	n h ơ
+nhờ	n h ờ
+nhở	n h ở
+nhỡ	n h ỡ
+nhớ	n h ớ
+nhơi	n h ơ i
+nhớp	n h ớ p
+nhu	n h u
+nhủ	n h ủ
+nhũ	n h ũ
+nhuần	n h u ầ n
+nhúc	n h ú c
+nhục	n h ụ c
+nhuệ	n h u ệ
+nhủi	n h ủ i
+nhụi	n h ụ i
+nhún	n h ú n
+nhung	n h u n g
+nhũng	n h ũ n g
+nhúng	n h ú n g
+nhuốc	n h u ố c
+nhuộm	n h u ộ m
+nhút	n h ú t
+nhuyễn	n h u y ễ n
+như	n h ư
+nhử	n h ử
+nhựa	n h ự a
+nhức	n h ứ c
+nhưng	n h ư n g
+những	n h ữ n g
+nhược	n h ư ợ c
+nhương	n h ư ơ n g
+nhường	n h ư ờ n g
+nhướng	n h ư ớ n g
+nhượng	n h ư ợ n g
+ni	n i
+nỉ	n ỉ
+nia	n i a
+nĩa	n ĩ a
+ních	n í c h
+nịch	n ị c h
+niêm	n i ê m
+niềm	n i ề m
+niệm	n i ệ m
+niên	n i ê n
+niêu	n i ê u
+night	n i g h t
+nim	n i m
+nin	n i n
+nín	n í n
+nine	n i n e
+nineteen	n i n e t e e n
+nineteenth	n i n e t e e n t h
+ninety	n i n e t y
+ninh	n i n h
+nịnh	n ị n h
+nít	n í t
+nịt	n ị t
+niu	n i u
+níu	n í u
+no	n o
+nó	n ó
+nọ	n ọ
+noble	n o b l e
+nóc	n ó c
+nọc	n ọ c
+noi	n o i
+nòi	n ò i
+nói	n ó i
+nom	n o m
+nominally	n o m i n a l l y
+nominated	n o m i n a t e d
+non	n o n
+nón	n ó n
+none	n o n e
+nòng	n ò n g
+nóng	n ó n g
+nóp	n ó p
+nor	n o r
+not	n o t
+nót	n ó t
+notably	n o t a b l y
+note	n o t e
+noted	n o t e d
+nothing	n o t h i n g
+notice	n o t i c e
+noticed	n o t i c e d
+notoriously	n o t o r i o u s l y
+novel	n o v e l
+now	n o w
+nô	n ô
+nổ	n ổ
+nỗ	n ỗ
+nộ	n ộ
+nồi	n ồ i
+nổi	n ổ i
+nỗi	n ỗ i
+nối	n ố i
+nội	n ộ i
+nôm	n ô m
+nôn	n ô n
+nông	n ô n g
+nồng	n ồ n g
+nổng	n ổ n g
+nốp	n ố p
+nộp	n ộ p
+nốt	n ố t
+nơ	n ơ
+nở	n ở
+nỡ	n ỡ
+nợ	n ợ
+nơi	n ơ i
+nới	n ớ i
+nu	n u
+nụ	n ụ
+nua	n u a
+núc	n ú c
+nui	n u i
+núi	n ú i
+num	n u m
+number	n u m b e r
+numbers	n u m b e r s
+numerous	n u m e r o u s
+nun	n u n
+nung	n u n g
+núng	n ú n g
+nuôi	n u ô i
+nuối	n u ố i
+nuông	n u ô n g
+nuốt	n u ố t
+núp	n ú p
+nút	n ú t
+nữ	n ữ
+nửa	n ử a
+nữa	n ữ a
+nức	n ứ c
+nước	n ư ớ c
+nương	n ư ơ n g
+nướng	n ư ớ n g
+nứt	n ứ t
+o	o
+ó	ó
+òa	ò a
+oai	o a i
+oan	o a n
+oán	o á n
+oanh	o a n h
+obligation	o b l i g a t i o n
+obliged	o b l i g e d
+obliteration	o b l i t e r a t i o n
+obscene	o b s c e n e
+observance	o b s e r v a n c e
+observations	o b s e r v a t i o n s
+observe	o b s e r v e
+observed	o b s e r v e d
+obtain	o b t a i n
+obtained	o b t a i n e d
+obtaining	o b t a i n i n g
+obviously	o b v i o u s l y
+óc	ó c
+occasional	o c c a s i o n a l
+occasionally	o c c a s i o n a l l y
+occupant	o c c u p a n t
+occupants	o c c u p a n t s
+occupied	o c c u p i e d
+october	o c t o b e r
+odd	o d d
+oddity	o d d i t y
+of	o f
+off	o f f
+offenders	o f f e n d e r s
+offense	o f f e n s e
+offered	o f f e r e d
+office	o f f i c e
+officer	o f f i c e r
+offices	o f f i c e s
+often	o f t e n
+oh	o h
+oi	o i
+ỏi	ỏ i
+ói	ó i
+old	o l d
+oldest	o l d e s t
+om	o m
+on	o n
+once	o n c e
+one	o n e
+ong	o n g
+õng	õ n g
+óng	ó n g
+only	o n l y
+óp	ó p
+open	o p e n
+opened	o p e n e d
+opening	o p e n i n g
+openly	o p e n l y
+opinion	o p i n i o n
+opportunities	o p p o r t u n i t i e s
+opposition	o p p o s i t i o n
+or	o r
+order	o r d e r
+ordered	o r d e r e d
+ordinary	o r d i n a r y
+ornament	o r n a m e n t
+ornamentation	o r n a m e n t a t i o n
+ornamented	o r n a m e n t e d
+ọt	ọ t
+other	o t h e r
+others	o t h e r s
+ounces	o u n c e s
+our	o u r
+out	o u t
+outraged	o u t r a g e d
+outright	o u t r i g h t
+outside	o u t s i d e
+outskirts	o u t s k i r t s
+outspoken	o u t s p o k e n
+over	o v e r
+overcrowded	o v e r c r o w d e d
+overcrowding	o v e r c r o w d i n g
+overdo	o v e r d o
+overflowing	o v e r f l o w i n g
+owing	o w i n g
+own	o w n
+ô	ô
+ồ	ồ
+ổ	ổ
+ố	ố
+ốc	ố c
+ôi	ô i
+ổi	ổ i
+ôm	ô m
+ốm	ố m
+ôn	ô n
+ồn	ồ n
+ổn	ổ n
+ông	ô n g
+ống	ố n g
+ốt	ố t
+ơ	ơ
+ở	ở
+ơi	ơ i
+ơn	ơ n
+ớt	ớ t
+p	p
+pa	p a
+page	p a g e
+paid	p a i d
+pain	p a i n
+painted	p a i n t e d
+pale	p a l e
+paper	p a p e r
+paralyzed	p a r a l y z e d
+pardon	p a r d o n
+parentage	p a r e n t a g e
+paris	p a r i s
+parliament	p a r l i a m e n t
+parma	p a r m a
+part	p a r t
+partially	p a r t i a l l y
+particular	p a r t i c u l a r
+particularly	p a r t i c u l a r l y
+parties	p a r t i e s
+partook	p a r t o o k
+partridge	p a r t r i d g e
+parts	p a r t s
+party	p a r t y
+pass	p a s s
+passage	p a s s a g e
+passed	p a s s e d
+passing	p a s s i n g
+patron	p a t r o n
+pattern	p a t t e r n
+pay	p a y
+paying	p a y i n g
+payment	p a y m e n t
+payments	p a y m e n t s
+peace	p e a c e
+pecuniary	p e c u n i a r y
+peers	p e e r s
+pell	p e l l
+penalties	p e n a l t i e s
+penalty	p e n a l t y
+pence	p e n c e
+pending	p e n d i n g
+penny	p e n n y
+people	p e o p l e
+pepper	p e p p e r
+per	p e r
+peremptorily	p e r e m p t o r i l y
+perfect	p e r f e c t
+perform	p e r f o r m
+performed	p e r f o r m e d
+performing	p e r f o r m i n g
+perhaps	p e r h a p s
+period	p e r i o d
+periodical	p e r i o d i c a l
+periodically	p e r i o d i c a l l y
+perish	p e r i s h
+perished	p e r i s h e d
+permission	p e r m i s s i o n
+permit	p e r m i t
+permitted	p e r m i t t e d
+pernicious	p e r n i c i o u s
+perpetually	p e r p e t u a l l y
+perpetuated	p e r p e t u a t e d
+persistent	p e r s i s t e n t
+person	p e r s o n
+personal	p e r s o n a l
+personally	p e r s o n a l l y
+persons	p e r s o n s
+persuasive	p e r s u a s i v e
+pẹt	p ẹ t
+peter	p e t e r
+petworth	p e t w o r t h
+pew	p e w
+pha	p h a
+phả	p h ả
+phá	p h á
+phác	p h á c
+phách	p h á c h
+phai	p h a i
+phải	p h ả i
+phái	p h á i
+pham	p h a m
+phàm	p h à m
+phạm	p h ạ m
+phan	p h a n
+phàn	p h à n
+phản	p h ả n
+phán	p h á n
+phàng	p h à n g
+phanh	p h a n h
+phao	p h a o
+pháo	p h á o
+pháp	p h á p
+phát	p h á t
+phạt	p h ạ t
+phẳng	p h ẳ n g
+phắt	p h ắ t
+phẩm	p h ẩ m
+phân	p h â n
+phần	p h ầ n
+phẫn	p h ẫ n
+phấn	p h ấ n
+phận	p h ậ n
+phập	p h ậ p
+phất	p h ấ t
+phẫu	p h ẫ u
+phẩy	p h ẩ y
+phe	p h e
+phéc	p h é c
+phen	p h e n
+phèng	p h è n g
+phép	p h é p
+phê	p h ê
+phế	p h ế
+phên	p h ê n
+phết	p h ế t
+phếu	p h ế u
+phi	p h i
+phì	p h ì
+phỉ	p h ỉ
+phí	p h í
+phia	p h i a
+phía	p h í a
+phích	p h í c h
+phiên	p h i ê n
+phiền	p h i ề n
+phiến	p h i ế n
+phiêu	p h i ê u
+phiếu	p h i ế u
+philanthropic	p h i l a n t h r o p i c
+philanthropists	p h i l a n t h r o p i s t s
+philanthropy	p h i l a n t h r o p y
+phim	p h i m
+phin	p h i n
+phinh	p h i n h
+phình	p h ì n h
+phỉnh	p h ỉ n h
+phít	p h í t
+phiu	p h i u
+pho	p h o
+phò	p h ò
+phó	p h ó
+phong	p h o n g
+phòng	p h ò n g
+phỏng	p h ỏ n g
+phóng	p h ó n g
+phót	p h ó t
+phô	p h ô
+phổ	p h ổ
+phố	p h ố
+phôi	p h ô i
+phối	p h ố i
+phôn	p h ô n
+phồn	p h ồ n
+phông	p h ô n g
+phồng	p h ồ n g
+phốt	p h ố t
+phơ	p h ơ
+phơi	p h ơ i
+phới	p h ớ i
+phớt	p h ớ t
+phu	p h u
+phù	p h ù
+phủ	p h ủ
+phũ	p h ũ
+phú	p h ú
+phụ	p h ụ
+phúc	p h ú c
+phục	p h ụ c
+phui	p h u i
+phun	p h u n
+phung	p h u n g
+phúng	p h ú n g
+phụng	p h ụ n g
+phút	p h ú t
+phụt	p h ụ t
+phừng	p h ừ n g
+phước	p h ư ớ c
+phương	p h ư ơ n g
+phường	p h ư ờ n g
+phượng	p h ư ợ n g
+pi	p i
+picture	p i c t u r e
+pictures	p i c t u r e s
+pillow	p i l l o w
+pirates	p i r a t e s
+pitiable	p i t i a b l e
+place	p l a c e
+placed	p l a c e d
+places	p l a c e s
+plain	p l a i n
+plan	p l a n
+plane	p l a n e
+planks	p l a n k s
+planned	p l a n n e d
+plates	p l a t e s
+play	p l a y
+players	p l a y e r s
+playing	p l a y i n g
+pleadings	p l e a d i n g s
+pleas	p l e a s
+pleasanter	p l e a s a n t e r
+pleasure	p l e a s u r e
+poetical	p o e t i c a l
+point	p o i n t
+pointed	p o i n t e d
+pointing	p o i n t i n g
+poisons	p o i s o n s
+polluted	p o l l u t e d
+poor	p o o r
+population	p o p u l a t i o n
+portion	p o r t i o n
+portions	p o r t i o n s
+position	p o s i t i o n
+positively	p o s i t i v e l y
+possession	p o s s e s s i o n
+possibility	p o s s i b i l i t y
+possible	p o s s i b l e
+poultry	p o u l t r y
+pounds	p o u n d s
+powerless	p o w e r l e s s
+pô	p ô
+pôn	p ô n
+practice	p r a c t i c e
+practiced	p r a c t i c e d
+prayers	p r a y e r s
+preacher	p r e a c h e r
+preceding	p r e c e d i n g
+precise	p r e c i s e
+predecessor	p r e d e c e s s o r
+preparatory	p r e p a r a t o r y
+prescribed	p r e s c r i b e d
+prescription	p r e s c r i p t i o n
+present	p r e s e n t
+presentation	p r e s e n t a t i o n
+presentment	p r e s e n t m e n t
+presidents	p r e s i d e n t s
+press	p r e s s
+presses	p r e s s e s
+pretext	p r e t e x t
+prevailed	p r e v a i l e d
+prevailing	p r e v a i l i n g
+prevalent	p r e v a l e n t
+prevented	p r e v e n t e d
+previous	p r e v i o u s
+price	p r i c e
+primarily	p r i m a r i l y
+principal	p r i n c i p a l
+principally	p r i n c i p a l l y
+principle	p r i n c i p l e
+principles	p r i n c i p l e s
+print	p r i n t
+printed	p r i n t e d
+printer	p r i n t e r
+printers	p r i n t e r s
+printing	p r i n t i n g
+prints	p r i n t s
+prison	p r i s o n
+prisoner	p r i s o n e r
+prisoners	p r i s o n e r s
+prisons	p r i s o n s
+private	p r i v a t e
+privation	p r i v a t i o n
+privilege	p r i v i l e g e
+privileged	p r i v i l e g e d
+privileges	p r i v i l e g e s
+probably	p r o b a b l y
+proceeding	p r o c e e d i n g
+process	p r o c e s s
+processes	p r o c e s s e s
+produce	p r o d u c e
+produced	p r o d u c e d
+productions	p r o d u c t i o n s
+professes	p r o f e s s e s
+profession	p r o f e s s i o n
+profit	p r o f i t
+projected	p r o j e c t e d
+projections	p r o j e c t i o n s
+prominent	p r o m i n e n t
+promiscuous	p r o m i s c u o u s
+promulgation	p r o m u l g a t i o n
+pronounced	p r o n o u n c e d
+proper	p r o p e r
+properly	p r o p e r l y
+property	p r o p e r t y
+proportion	p r o p o r t i o n
+proportions	p r o p o r t i o n s
+proposals	p r o p o s a l s
+propose	p r o p o s e
+propositions	p r o p o s i t i o n s
+protect	p r o t e c t
+protection	p r o t e c t i o n
+protested	p r o t e s t e d
+protests	p r o t e s t s
+prove	p r o v e
+proved	p r o v e d
+provide	p r o v i d e
+provided	p r o v i d e d
+providing	p r o v i d i n g
+provinces	p r o v i n c e s
+provincial	p r o v i n c i a l
+provision	p r o v i s i o n
+provisions	p r o v i s i o n s
+psalters	p s a l t e r s
+public	p u b l i c
+publican	p u b l i c a n
+publicly	p u b l i c l y
+published	p u b l i s h e d
+publishers	p u b l i s h e r s
+publishing	p u b l i s h i n g
+punishment	p u n i s h m e n t
+punishments	p u n i s h m e n t s
+puppy	p u p p y
+purchase	p u r c h a s e
+purchased	p u r c h a s e d
+pure	p u r e
+purity	p u r i t y
+purpose	p u r p o s e
+purveyors	p u r v e y o r s
+put	p u t
+putrid	p u t r i d
+putting	p u t t i n g
+qua	q u a
+quà	q u à
+quả	q u ả
+quá	q u á
+quạ	q u ạ
+quách	q u á c h
+quadrangle	q u a d r a n g l e
+quai	q u a i
+quái	q u á i
+quại	q u ạ i
+qualities	q u a l i t i e s
+quality	q u a l i t y
+quan	q u a n
+quàn	q u à n
+quản	q u ả n
+quán	q u á n
+quang	q u a n g
+quàng	q u à n g
+quảng	q u ả n g
+quãng	q u ã n g
+quáng	q u á n g
+quạng	q u ạ n g
+quanh	q u a n h
+quạnh	q u ạ n h
+quarreling	q u a r r e l i n g
+quart	q u a r t
+quarter	q u a r t e r
+quarterly	q u a r t e r l y
+quarters	q u a r t e r s
+quát	q u á t
+quạt	q u ạ t
+quay	q u a y
+quắc	q u ắ c
+quằn	q u ằ n
+quặn	q u ặ n
+quăng	q u ă n g
+quẳng	q u ẳ n g
+quặng	q u ặ n g
+quắt	q u ắ t
+quặt	q u ặ t
+quân	q u â n
+quần	q u ầ n
+quẩn	q u ẩ n
+quẫn	q u ẫ n
+quấn	q u ấ n
+quận	q u ậ n
+quất	q u ấ t
+quật	q u ậ t
+quây	q u â y
+quấy	q u ấ y
+quậy	q u ậ y
+que	q u e
+què	q u è
+quẻ	q u ẻ
+quẽ	q u ẽ
+quen	q u e n
+queo	q u e o
+quẹo	q u ẹ o
+question	q u e s t i o n
+quét	q u é t
+quê	q u ê
+quế	q u ế
+quệ	q u ệ
+quên	q u ê n
+qui	q u i
+quí	q u í
+quite	q u i t e
+quote	q u o t e
+quoted	q u o t e d
+quotes	q u o t e s
+quốc	q u ố c
+quờ	q u ờ
+quở	q u ở
+quy	q u y
+quỳ	q u ỳ
+quỷ	q u ỷ
+quỹ	q u ỹ
+quý	q u ý
+quỵ	q u ỵ
+quyên	q u y ê n
+quyền	q u y ề n
+quyển	q u y ể n
+quyến	q u y ế n
+quyết	q u y ế t
+quyệt	q u y ệ t
+ra	r a
+rà	r à
+rã	r ã
+rá	r á
+rạ	r ạ
+rác	r á c
+rạc	r ạ c
+race	r a c e
+rách	r á c h
+rạch	r ạ c h
+rackets	r a c k e t s
+rags	r a g s
+rai	r a i
+rải	r ả i
+rãi	r ã i
+rain	r a i n
+raised	r a i s e d
+ram	r a m
+ran	r a n
+ràn	r à n
+rán	r á n
+rạn	r ạ n
+rang	r a n g
+ràng	r à n g
+ráng	r á n g
+rạng	r ạ n g
+ranh	r a n h
+rành	r à n h
+rảnh	r ả n h
+rank	r a n k
+rao	r a o
+rào	r à o
+ráo	r á o
+rạo	r ạ o
+ráp	r á p
+rạp	r ạ p
+rapidly	r a p i d l y
+rarely	r a r e l y
+rát	r á t
+rate	r a t e
+rates	r a t e s
+rather	r a t h e r
+rational	r a t i o n a l
+rations	r a t i o n s
+rau	r a u
+rày	r à y
+rảy	r ả y
+rắc	r ắ c
+rặc	r ặ c
+răm	r ă m
+rằm	r ằ m
+rắm	r ắ m
+răn	r ă n
+rắn	r ắ n
+răng	r ă n g
+rằng	r ằ n g
+rặng	r ặ n g
+rắp	r ắ p
+rắt	r ắ t
+râm	r â m
+rầm	r ầ m
+rậm	r ậ m
+rập	r ậ p
+rất	r ấ t
+râu	r â u
+rầu	r ầ u
+rầy	r ầ y
+rẩy	r ẩ y
+rẫy	r ẫ y
+re	r e
+rè	r è
+rẻ	r ẻ
+rẽ	r ẽ
+read	r e a d
+reader	r e a d e r
+reading	r e a d i n g
+real	r e a l
+reality	r e a l i t y
+realize	r e a l i z e
+really	r e a l l y
+realm	r e a l m
+rearranged	r e a r r a n g e d
+reason	r e a s o n
+reasonable	r e a s o n a b l e
+réc	r é c
+receipts	r e c e i p t s
+receive	r e c e i v e
+receptacle	r e c e p t a c l e
+reception	r e c e p t i o n
+reckoned	r e c k o n e d
+recommence	r e c o m m e n c e
+recommendations	r e c o m m e n d a t i o n s
+recommended	r e c o m m e n d e d
+record	r e c o r d
+recorded	r e c o r d e d
+recover	r e c o v e r
+recovery	r e c o v e r y
+redesdale	r e d e s d a l e
+reduce	r e d u c e
+reduced	r e d u c e d
+reference	r e f e r e n c e
+referred	r e f e r r e d
+reform	r e f o r m
+reforms	r e f o r m s
+refractory	r e f r a c t o r y
+regained	r e g a i n e d
+regarded	r e g a r d e d
+regards	r e g a r d s
+regular	r e g u l a r
+regulated	r e g u l a t e d
+regulation	r e g u l a t i o n
+regulations	r e g u l a t i o n s
+reign	r e i g n
+reiteration	r e i t e r a t i o n
+rejected	r e j e c t e d
+relapsing	r e l a p s i n g
+relation	r e l a t i o n
+release	r e l e a s e
+relief	r e l i e f
+relieve	r e l i e v e
+religious	r e l i g i o u s
+rem	r e m
+rèm	r è m
+remained	r e m a i n e d
+remaining	r e m a i n i n g
+remarkably	r e m a r k a b l y
+remedy	r e m e d y
+remembered	r e m e m b e r e d
+remonstrate	r e m o n s t r a t e
+removal	r e m o v a l
+removed	r e m o v e d
+remunerated	r e m u n e r a t e d
+ren	r e n
+rèn	r è n
+rén	r é n
+render	r e n d e r
+reng	r e n g
+rent	r e n t
+rental	r e n t a l
+rentals	r e n t a l s
+reo	r e o
+réo	r é o
+rép	r é p
+repealed	r e p e a l e d
+report	r e p o r t
+reported	r e p o r t e d
+reprehensible	r e p r e h e n s i b l e
+representatives	r e p r e s e n t a t i v e s
+represented	r e p r e s e n t e d
+reputed	r e p u t e d
+requests	r e q u e s t s
+required	r e q u i r e d
+rescued	r e s c u e d
+resemble	r e s e m b l e
+reserved	r e s e r v e d
+resided	r e s i d e d
+resolved	r e s o l v e d
+respect	r e s p e c t
+respectable	r e s p e c t a b l e
+respectively	r e s p e c t i v e l y
+responsibility	r e s p o n s i b i l i t y
+rest	r e s t
+resting	r e s t i n g
+result	r e s u l t
+rét	r é t
+retrenched	r e t r e n c h e d
+returns	r e t u r n s
+revels	r e v e l s
+revenues	r e v e n u e s
+revived	r e v i v e d
+rewarded	r e w a r d e d
+rê	r ê
+rể	r ể
+rễ	r ễ
+rên	r ê n
+rền	r ề n
+rếp	r ế p
+rết	r ế t
+rệt	r ệ t
+rêu	r ê u
+ri	r i
+rì	r ì
+rỉ	r ỉ
+rĩ	r ĩ
+ria	r i a
+rìa	r ì a
+rỉa	r ỉ a
+ríc	r í c
+rich	r i c h
+rích	r í c h
+richard	r i c h a r d
+richness	r i c h n e s s
+riêng	r i ê n g
+riết	r i ế t
+riếu	r i ế u
+right	r i g h t
+rights	r i g h t s
+rim	r i m
+rinh	r i n h
+rình	r ì n h
+riot	r i o t
+riotous	r i o t o u s
+ríp	r í p
+risen	r i s e n
+rít	r í t
+rìu	r ì u
+rivers	r i v e r s
+ro	r o
+rõ	r õ
+road	r o a d
+robbed	r o b b e d
+roi	r o i
+rọi	r ọ i
+roistering	r o i s t e r i n g
+rolled	r o l l e d
+rom	r o m
+roman	r o m a n
+rome	r o m e
+rón	r ó n
+rong	r o n g
+ròng	r ò n g
+roof	r o o f
+room	r o o m
+rooms	r o o m s
+rose	r o s e
+rót	r ó t
+rouge	r o u g e
+round	r o u n d
+rounder	r o u n d e r
+roused	r o u s e d
+royal	r o y a l
+rô	r ô
+rồ	r ồ
+rộ	r ộ
+rốc	r ố c
+rôi	r ô i
+rồi	r ồ i
+rỗi	r ỗ i
+rối	r ố i
+rôm	r ô m
+rôn	r ô n
+rốn	r ố n
+rộn	r ộ n
+rồng	r ồ n g
+rỗng	r ỗ n g
+rống	r ố n g
+rộng	r ộ n g
+rốp	r ố p
+rốt	r ố t
+rơ	r ơ
+rờ	r ờ
+rỡ	r ỡ
+rơi	r ơ i
+rời	r ờ i
+rơm	r ơ m
+rợn	r ợ n
+rợp	r ợ p
+rớt	r ớ t
+ru	r u
+rủ	r ủ
+rũ	r ũ
+rú	r ú
+rua	r u a
+rủa	r ủ a
+rubeus	r u b e u s
+rúc	r ú c
+rục	r ụ c
+rugs	r u g s
+rủi	r ủ i
+rụi	r ụ i
+rule	r u l e
+rulers	r u l e r s
+rules	r u l e s
+rum	r u m
+run	r u n
+rủn	r ủ n
+rung	r u n g
+rùng	r ù n g
+rúng	r ú n g
+rụng	r ụ n g
+running	r u n n i n g
+ruồi	r u ồ i
+ruồng	r u ồ n g
+ruộng	r u ộ n g
+ruột	r u ộ t
+rúp	r ú p
+rút	r ú t
+rụt	r ụ t
+rửa	r ử a
+rữa	r ữ a
+rực	r ự c
+rừng	r ừ n g
+rước	r ư ớ c
+rười	r ư ờ i
+rưởi	r ư ở i
+rưỡi	r ư ỡ i
+rưới	r ư ớ i
+rượi	r ư ợ i
+rườm	r ư ờ m
+rương	r ư ơ n g
+rường	r ư ờ n g
+rượt	r ư ợ t
+rượu	r ư ợ u
+rứt	r ứ t
+ry	r y
+s	s
+sa	s a
+sà	s à
+sả	s ả
+sá	s á
+sác	s á c
+sách	s á c h
+sạch	s ạ c h
+sacrificing	s a c r i f i c i n g
+safely	s a f e l y
+safest	s a f e s t
+safety	s a f e t y
+sagacity	s a g a c i t y
+sai	s a i
+sài	s à i
+sải	s ả i
+said	s a i d
+salaries	s a l a r i e s
+salary	s a l a r y
+sale	s a l e
+salt	s a l t
+salutary	s a l u t a r y
+sam	s a m
+sạm	s ạ m
+same	s a m e
+samuel	s a m u e l
+san	s a n
+sàn	s à n
+sản	s ả n
+sang	s a n g
+sàng	s à n g
+sảng	s ả n g
+sáng	s á n g
+sanh	s a n h
+sành	s à n h
+sảnh	s ả n h
+sánh	s á n h
+sao	s a o
+sào	s à o
+sáo	s á o
+sạo	s ạ o
+sáp	s á p
+sat	s a t
+sát	s á t
+sạt	s ạ t
+satisfaction	s a t i s f a c t i o n
+satisfactorily	s a t i s f a c t o r i l y
+satisfactory	s a t i s f a c t o r y
+satisfied	s a t i s f i e d
+sau	s a u
+sáu	s á u
+saucepan	s a u c e p a n
+saw	s a w
+say	s a y
+sảy	s ả y
+says	s a y s
+sắc	s ắ c
+sặc	s ặ c
+sắm	s ắ m
+săn	s ă n
+sẵn	s ẵ n
+sắng	s ắ n g
+sắp	s ắ p
+sắt	s ắ t
+sầm	s ầ m
+sấm	s ấ m
+sân	s â n
+sấn	s ấ n
+sấp	s ấ p
+sập	s ậ p
+sâu	s â u
+sầu	s ầ u
+sẩy	s ẩ y
+sậy	s ậ y
+sc	s c
+scanty	s c a n t y
+scarcely	s c a r c e l y
+scavenger	s c a v e n g e r
+scene	s c e n e
+scenes	s c e n e s
+schoeffer	s c h o e f f e r
+schussler	s c h u s s l e r
+score	s c o r e
+scotched	s c o t c h e d
+scotland	s c o t l a n d
+scrape	s c r a p e
+scraped	s c r a p e d
+se	s e
+sẻ	s ẻ
+sẽ	s ẽ
+searched	s e a r c h e d
+searches	s e a r c h e s
+second	s e c o n d
+secretary	s e c r e t a r y
+secrete	s e c r e t e
+secreted	s e c r e t e d
+secretly	s e c r e t l y
+section	s e c t i o n
+secure	s e c u r e
+secured	s e c u r e d
+security	s e c u r i t y
+seduction	s e d u c t i o n
+see	s e e
+seeing	s e e i n g
+seem	s e e m
+seemingly	s e e m i n g l y
+seems	s e e m s
+seldom	s e l d o m
+select	s e l e c t
+selected	s e l e c t e d
+self	s e l f
+sell	s e l l
+sem	s e m
+sém	s é m
+sen	s e n
+sense	s e n s e
+sent	s e n t
+sentence	s e n t e n c e
+sentenced	s e n t e n c e d
+sentry	s e n t r y
+sẹo	s ẹ o
+sép	s é p
+separate	s e p a r a t e
+separated	s e p a r a t e d
+separating	s e p a r a t i n g
+separation	s e p a r a t i o n
+september	s e p t e m b e r
+serious	s e r i o u s
+servants	s e r v a n t s
+serve	s e r v e
+served	s e r v e d
+service	s e r v i c e
+services	s e r v i c e s
+sessions	s e s s i o n s
+set	s e t
+sét	s é t
+setting	s e t t i n g
+seven	s e v e n
+seventeen	s e v e n t e e n
+seventeenth	s e v e n t e e n t h
+seventh	s e v e n t h
+seventy	s e v e n t y
+several	s e v e r a l
+severe	s e v e r e
+severity	s e v e r i t y
+sewers	s e w e r s
+sê	s ê
+sếch	s ế c h
+sên	s ê n
+sết	s ế t
+sệt	s ệ t
+sếu	s ế u
+sha	s h a
+shades	s h a d e s
+shall	s h a l l
+shame	s h a m e
+shape	s h a p e
+shapeliness	s h a p e l i n e s s
+share	s h a r e
+she	s h e
+sheriff	s h e r i f f
+shilling	s h i l l i n g
+shillings	s h i l l i n g s
+shim	s h i m
+ships	s h i p s
+shoemaking	s h o e m a k i n g
+shop	s h o p
+shops	s h o p s
+short	s h o r t
+should	s h o u l d
+showed	s h o w e d
+showing	s h o w i n g
+shown	s h o w n
+showy	s h o w y
+shut	s h u t
+shutting	s h u t t i n g
+si	s i
+sỉ	s ỉ
+sĩ	s ĩ
+sia	s i a
+sick	s i c k
+side	s i d e
+siếc	s i ế c
+siêng	s i ê n g
+siếp	s i ế p
+siết	s i ế t
+siêu	s i ê u
+sim	s i m
+similar	s i m i l a r
+simple	s i m p l e
+simpler	s i m p l e r
+sin	s i n
+since	s i n c e
+sine	s i n e
+singing	s i n g i n g
+single	s i n g l e
+sinh	s i n h
+sình	s ì n h
+sính	s í n h
+síp	s í p
+sir	s i r
+sít	s í t
+situated	s i t u a t e d
+situation	s i t u a t i o n
+six	s i x
+sixpence	s i x p e n c e
+sixpenny	s i x p e n n y
+sixteen	s i x t e e n
+sixteenth	s i x t e e n t h
+sixth	s i x t h
+sixty	s i x t y
+size	s i z e
+sizes	s i z e s
+skittles	s k i t t l e s
+sky	s k y
+slavery	s l a v e r y
+sleep	s l e e p
+sleeper	s l e e p e r
+sleeping	s l e e p i n g
+slept	s l e p t
+slightly	s l i g h t l y
+small	s m a l l
+smoking	s m o k i n g
+so	s o
+sọ	s ọ
+soa	s o a
+soạn	s o ạ n
+soạng	s o ạ n g
+soát	s o á t
+sober	s o b e r
+sobriety	s o b r i e t y
+sóc	s ó c
+sọc	s ọ c
+society	s o c i e t y
+soft	s o f t
+soi	s o i
+sỏi	s ỏ i
+sói	s ó i
+sold	s o l d
+solitary	s o l i t a r y
+sòm	s ò m
+some	s o m e
+something	s o m e t h i n g
+sometimes	s o m e t i m e s
+somewhat	s o m e w h a t
+son	s o n
+song	s o n g
+sòng	s ò n g
+sóng	s ó n g
+songs	s o n g s
+soon	s o o n
+sorts	s o r t s
+sót	s ó t
+sought	s o u g h t
+sound	s o u n d
+soup	s o u p
+sô	s ô
+sổ	s ổ
+sỗ	s ỗ
+số	s ố
+sộ	s ộ
+sôi	s ô i
+sồi	s ồ i
+sôn	s ô n
+sông	s ô n g
+sống	s ố n g
+sốt	s ố t
+sơ	s ơ
+sờ	s ờ
+sở	s ở
+sỡ	s ỡ
+sớ	s ớ
+sợ	s ợ
+sợi	s ợ i
+sớm	s ớ m
+sơn	s ơ n
+sờn	s ờ n
+sớt	s ớ t
+space	s p a c e
+spaces	s p a c e s
+spacing	s p a c i n g
+speak	s p e a k
+speaks	s p e a k s
+special	s p e c i a l
+specify	s p e c i f y
+speedily	s p e e d i l y
+speedy	s p e e d y
+spend	s p e n d
+spent	s p e n t
+spiky	s p i k y
+spirits	s p i r i t s
+spiritual	s p i r i t u a l
+splendid	s p l e n d i d
+spot	s p o t
+square	s q u a r e
+staircase	s t a i r c a s e
+stamp	s t a m p
+stand	s t a n d
+stare	s t a r e
+started	s t a r t e d
+starve	s t a r v e
+state	s t a t e
+stated	s t a t e d
+statement	s t a t e m e n t
+status	s t a t u s
+statute	s t a t u t e
+steadily	s t e a d i l y
+step	s t e p
+steps	s t e p s
+steward	s t e w a r d
+still	s t i l l
+stirred	s t i r r e d
+stock	s t o c k
+stolen	s t o l e n
+stone	s t o n e
+stood	s t o o d
+stories	s t o r i e s
+strained	s t r a i n e d
+strange	s t r a n g e
+strangers	s t r a n g e r s
+straw	s t r a w
+street	s t r e e t
+stretching	s t r e t c h i n g
+strong	s t r o n g
+struggle	s t r u g g l e
+studded	s t u d d e d
+style	s t y l e
+su	s u
+sua	s u a
+sủa	s ủ a
+suất	s u ấ t
+sub	s u b
+subiaco	s u b i a c o
+subject	s u b j e c t
+substance	s u b s t a n c e
+substantial	s u b s t a n t i a l
+súc	s ú c
+sục	s ụ c
+successful	s u c c e s s f u l
+such	s u c h
+sue	s u e
+suê	s u ê
+suffer	s u f f e r
+suffering	s u f f e r i n g
+sufficient	s u f f i c i e n t
+suffocated	s u f f o c a t e d
+suggestion	s u g g e s t i o n
+sui	s u i
+sùi	s ù i
+suicide	s u i c i d e
+suit	s u i t
+suitable	s u i t a b l e
+sum	s u m
+sụm	s ụ m
+summary	s u m m a r y
+sums	s u m s
+sun	s u n
+sunday	s u n d a y
+sung	s u n g
+sùng	s ù n g
+sủng	s ủ n g
+sũng	s ũ n g
+suối	s u ố i
+suông	s u ô n g
+suốt	s u ố t
+súp	s ú p
+sụp	s ụ p
+superficial	s u p e r f i c i a l
+superior	s u p e r i o r
+supervised	s u p e r v i s e d
+supervision	s u p e r v i s i o n
+supplied	s u p p l i e d
+supplies	s u p p l i e s
+supply	s u p p l y
+support	s u p p o r t
+supposed	s u p p o s e d
+supreme	s u p r e m e
+surgeon	s u r g e o n
+surplus	s u r p l u s
+surrounded	s u r r o u n d e d
+surveyor	s u r v e y o r
+survive	s u r v i v e
+survived	s u r v i v e d
+susannah	s u s a n n a h
+sút	s ú t
+sụt	s ụ t
+suy	s u y
+suýt	s u ý t
+sư	s ư
+sử	s ử
+sứ	s ứ
+sự	s ự
+sưa	s ư a
+sửa	s ử a
+sữa	s ữ a
+sức	s ứ c
+sực	s ự c
+sưng	s ư n g
+sừng	s ừ n g
+sửng	s ử n g
+sững	s ữ n g
+sưởi	s ư ở i
+sườn	s ư ờ n
+sương	s ư ơ n g
+sướng	s ư ớ n g
+sượt	s ư ợ t
+sưu	s ư u
+swab	s w a b
+swearing	s w e a r i n g
+swelling	s w e l l i n g
+swellings	s w e l l i n g s
+sworn	s w o r n
+sy	s y
+sympathy	s y m p a t h y
+system	s y s t e m
+t	t
+ta	t a
+tà	t à
+tả	t ả
+tã	t ã
+tá	t á
+tạ	t ạ
+table	t a b l e
+tác	t á c
+tạc	t ạ c
+tách	t á c h
+tai	t a i
+tài	t à i
+tải	t ả i
+tái	t á i
+tại	t ạ i
+tailoring	t a i l o r i n g
+take	t a k e
+taken	t a k e n
+tam	t a m
+tám	t á m
+tạm	t ạ m
+tan	t a n
+tàn	t à n
+tản	t ả n
+tán	t á n
+tang	t a n g
+tàng	t à n g
+tảng	t ả n g
+táng	t á n g
+tanh	t a n h
+tành	t à n h
+tạnh	t ạ n h
+tao	t a o
+tảo	t ả o
+táo	t á o
+tạo	t ạ o
+tap	t a p
+táp	t á p
+tạp	t ạ p
+tapster	t a p s t e r
+tát	t á t
+tạt	t ạ t
+tàu	t à u
+taught	t a u g h t
+tay	t a y
+tày	t à y
+tắc	t ắ c
+tăm	t ă m
+tằm	t ằ m
+tắm	t ắ m
+tắn	t ắ n
+tăng	t ă n g
+tặng	t ặ n g
+tắp	t ắ p
+tắt	t ắ t
+tấc	t ấ c
+tâm	t â m
+tầm	t ầ m
+tẩm	t ẩ m
+tấm	t ấ m
+tân	t â n
+tấn	t ấ n
+tận	t ậ n
+tâng	t â n g
+tầng	t ầ n g
+tấp	t ấ p
+tập	t ậ p
+tất	t ấ t
+tật	t ậ t
+tâu	t â u
+tẩu	t ẩ u
+tấu	t ấ u
+tậu	t ậ u
+tây	t â y
+tẩy	t ẩ y
+te	t e
+tẻ	t ẻ
+tẽ	t ẽ
+té	t é
+teeth	t e e t h
+tells	t e l l s
+tem	t e m
+temporarily	t e m p o r a r i l y
+temporary	t e m p o r a r y
+ten	t e n
+tendency	t e n d e n c y
+tender	t e n d e r
+tennis	t e n n i s
+teo	t e o
+terms	t e r m s
+terrible	t e r r i b l e
+tẹt	t ẹ t
+texture	t e x t u r e
+tê	t ê
+tề	t ề
+tể	t ể
+tễ	t ễ
+tế	t ế
+tệ	t ệ
+tên	t ê n
+tết	t ế t
+tha	t h a
+thà	t h à
+thả	t h ả
+thác	t h á c
+thách	t h á c h
+thạch	t h ạ c h
+thai	t h a i
+thải	t h ả i
+thãi	t h ã i
+thái	t h á i
+tham	t h a m
+thảm	t h ả m
+thám	t h á m
+than	t h a n
+thản	t h ả n
+thán	t h á n
+thang	t h a n g
+tháng	t h á n g
+thanh	t h a n h
+thành	t h à n h
+thảnh	t h ả n h
+thánh	t h á n h
+thanks	t h a n k s
+thao	t h a o
+thảo	t h ả o
+tháo	t h á o
+thạo	t h ạ o
+tháp	t h á p
+that	t h a t
+thát	t h á t
+thay	t h a y
+thảy	t h ả y
+thắc	t h ắ c
+thăm	t h ă m
+thẳm	t h ẳ m
+thắm	t h ắ m
+thằn	t h ằ n
+thắn	t h ắ n
+thăng	t h ă n g
+thằng	t h ằ n g
+thẳng	t h ẳ n g
+thắng	t h ắ n g
+thặng	t h ặ n g
+thắp	t h ắ p
+thắt	t h ắ t
+thâm	t h â m
+thầm	t h ầ m
+thẩm	t h ẩ m
+thẫm	t h ẫ m
+thấm	t h ấ m
+thậm	t h ậ m
+thân	t h â n
+thần	t h ầ n
+thẫn	t h ẫ n
+thận	t h ậ n
+thấp	t h ấ p
+thập	t h ậ p
+thất	t h ấ t
+thật	t h ậ t
+thâu	t h â u
+thấu	t h ấ u
+thây	t h â y
+thầy	t h ầ y
+thấy	t h ấ y
+the	t h e
+thẻ	t h ẻ
+theft	t h e f t
+their	t h e i r
+them	t h e m
+thèm	t h è m
+themselves	t h e m s e l v e s
+then	t h e n
+thẹn	t h ẹ n
+theo	t h e o
+thép	t h é p
+there	t h e r e
+thereabout	t h e r e a b o u t
+therefore	t h e r e f o r e
+therein	t h e r e i n
+these	t h e s e
+thét	t h é t
+they	t h e y
+thê	t h ê
+thề	t h ề
+thể	t h ể
+thế	t h ế
+thệ	t h ệ
+thêm	t h ê m
+thềm	t h ề m
+thên	t h ê n
+thênh	t h ê n h
+thết	t h ế t
+thêu	t h ê u
+thểu	t h ể u
+thi	t h i
+thì	t h ì
+thí	t h í
+thị	t h ị
+thia	t h i a
+thìa	t h ì a
+thích	t h í c h
+thick	t h i c k
+thickening	t h i c k e n i n g
+thievery	t h i e v e r y
+thieves	t h i e v e s
+thiếc	t h i ế c
+thiên	t h i ê n
+thiến	t h i ế n
+thiện	t h i ệ n
+thiêng	t h i ê n g
+thiếp	t h i ế p
+thiệp	t h i ệ p
+thiết	t h i ế t
+thiệt	t h i ệ t
+thiêu	t h i ê u
+thiểu	t h i ể u
+thiếu	t h i ế u
+thiệu	t h i ệ u
+thim	t h i m
+thím	t h í m
+thin	t h i n
+thing	t h i n g
+things	t h i n g s
+thinh	t h i n h
+thình	t h ì n h
+thỉnh	t h ỉ n h
+thính	t h í n h
+thịnh	t h ị n h
+thinning	t h i n n i n g
+third	t h i r d
+thirteen	t h i r t e e n
+thirty	t h i r t y
+this	t h i s
+thít	t h í t
+thịt	t h ị t
+thỉu	t h ỉ u
+thò	t h ò
+thỏ	t h ỏ
+thọ	t h ọ
+thoa	t h o a
+thỏa	t h ỏ a
+thoải	t h o ả i
+thoái	t h o á i
+thoảng	t h o ả n g
+thoáng	t h o á n g
+thoát	t h o á t
+thoăn	t h o ă n
+thoắt	t h o ắ t
+thóc	t h ó c
+thoi	t h o i
+thòi	t h ò i
+thỏi	t h ỏ i
+thói	t h ó i
+thomas	t h o m a s
+thon	t h o n
+thong	t h o n g
+thòng	t h ò n g
+thóp	t h ó p
+thoroughly	t h o r o u g h l y
+those	t h o s e
+thót	t h ó t
+though	t h o u g h
+thought	t h o u g h t
+thousand	t h o u s a n d
+thô	t h ô
+thổ	t h ổ
+thố	t h ố
+thôi	t h ô i
+thổi	t h ổ i
+thối	t h ố i
+thôn	t h ô n
+thốn	t h ố n
+thông	t h ô n g
+thống	t h ố n g
+thốt	t h ố t
+thơ	t h ơ
+thờ	t h ờ
+thở	t h ở
+thợ	t h ợ
+thơi	t h ơ i
+thời	t h ờ i
+thơm	t h ơ m
+thớt	t h ớ t
+three	t h r e e
+through	t h r o u g h
+throughout	t h r o u g h o u t
+throwing	t h r o w i n g
+thrown	t h r o w n
+throws	t h r o w s
+thu	t h u
+thù	t h ù
+thủ	t h ủ
+thú	t h ú
+thụ	t h ụ
+thua	t h u a
+thùa	t h ù a
+thuần	t h u ầ n
+thuẫn	t h u ẫ n
+thuận	t h u ậ n
+thuật	t h u ậ t
+thúc	t h ú c
+thuê	t h u ê
+thuế	t h u ế
+thun	t h u n
+thung	t h u n g
+thùng	t h ù n g
+thủng	t h ủ n g
+thũng	t h ũ n g
+thúng	t h ú n g
+thuốc	t h u ố c
+thuộc	t h u ộ c
+thuồng	t h u ồ n g
+thuở	t h u ở
+thus	t h u s
+thủy	t h ủ y
+thúy	t h ú y
+thuyên	t h u y ê n
+thuyền	t h u y ề n
+thuyết	t h u y ế t
+thư	t h ư
+thử	t h ử
+thứ	t h ứ
+thự	t h ự
+thưa	t h ư a
+thừa	t h ừ a
+thửa	t h ử a
+thức	t h ứ c
+thực	t h ự c
+thừng	t h ừ n g
+thước	t h ư ớ c
+thương	t h ư ơ n g
+thường	t h ư ờ n g
+thưởng	t h ư ở n g
+thượng	t h ư ợ n g
+thượt	t h ư ợ t
+ti	t i
+tì	t ì
+tỉ	t ỉ
+tí	t í
+tị	t ị
+tia	t i a
+tỉa	t ỉ a
+tía	t í a
+tích	t í c h
+tịch	t ị c h
+tiếc	t i ế c
+tiệc	t i ệ c
+tiềm	t i ề m
+tiên	t i ê n
+tiền	t i ề n
+tiễn	t i ễ n
+tiến	t i ế n
+tiện	t i ệ n
+tiếng	t i ế n g
+tiếp	t i ế p
+tiết	t i ế t
+tiệt	t i ệ t
+tiêu	t i ê u
+tiều	t i ề u
+tiểu	t i ể u
+tiếu	t i ế u
+till	t i l l
+tim	t i m
+tìm	t ì m
+tím	t í m
+time	t i m e
+times	t i m e s
+tin	t i n
+tín	t í n
+tinh	t i n h
+tình	t ì n h
+tỉnh	t ỉ n h
+tĩnh	t ĩ n h
+tính	t í n h
+tịnh	t ị n h
+tip	t i p
+típ	t í p
+tít	t í t
+title	t i t l e
+tiu	t i u
+tỉu	t ỉ u
+to	t o
+tò	t ò
+tỏ	t ỏ
+toa	t o a
+tòa	t ò a
+tỏa	t ỏ a
+tọa	t ọ a
+toạc	t o ạ c
+toại	t o ạ i
+toan	t o a n
+toàn	t o à n
+toán	t o á n
+toang	t o a n g
+toát	t o á t
+tóc	t ó c
+tóe	t ó e
+together	t o g e t h e r
+tòi	t ò i
+tỏi	t ỏ i
+told	t o l d
+toll	t o l l
+tolls	t o l l s
+tóm	t ó m
+tone	t o n e
+tòng	t ò n g
+too	t o o
+took	t o o k
+tools	t o o l s
+top	t o p
+tóp	t ó p
+total	t o t a l
+touched	t o u c h e d
+towards	t o w a r d s
+town	t o w n
+towns	t o w n s
+tô	t ô
+tổ	t ổ
+tố	t ố
+tốc	t ố c
+tộc	t ộ c
+tôi	t ô i
+tồi	t ồ i
+tối	t ố i
+tội	t ộ i
+tôn	t ô n
+tồn	t ồ n
+tổn	t ổ n
+tốn	t ố n
+tông	t ô n g
+tổng	t ổ n g
+tống	t ố n g
+tốt	t ố t
+tột	t ộ t
+tơ	t ơ
+tờ	t ờ
+tớ	t ớ
+tơi	t ơ i
+tới	t ớ i
+tởm	t ở m
+tợn	t ợ n
+tra	t r a
+trà	t r à
+trả	t r ả
+trá	t r á
+trác	t r á c
+trách	t r á c h
+trader	t r a d e r
+trades	t r a d e s
+trai	t r a i
+trải	t r ả i
+trái	t r á i
+trại	t r ạ i
+trạm	t r ạ m
+tràn	t r à n
+trán	t r á n
+trang	t r a n g
+tràng	t r à n g
+tráng	t r á n g
+trạng	t r ạ n g
+tranh	t r a n h
+tránh	t r á n h
+transactions	t r a n s a c t i o n s
+transient	t r a n s i e n t
+transition	t r a n s i t i o n
+transparent	t r a n s p a r e n t
+transportation	t r a n s p o r t a t i o n
+transports	t r a n s p o r t s
+trao	t r a o
+trào	t r à o
+tráo	t r á o
+trau	t r a u
+trắc	t r ắ c
+trặc	t r ặ c
+trăm	t r ă m
+trăn	t r ă n
+trằn	t r ằ n
+trăng	t r ă n g
+trắng	t r ắ n g
+trầm	t r ầ m
+trân	t r â n
+trần	t r ầ n
+trấn	t r ấ n
+trận	t r ậ n
+trật	t r ậ t
+trâu	t r â u
+trấu	t r ấ u
+trẩy	t r ẩ y
+trẻ	t r ẻ
+treated	t r e a t e d
+treatment	t r e a t m e n t
+trebled	t r e b l e d
+trẽn	t r ẽ n
+treo	t r e o
+trèo	t r è o
+trép	t r é p
+trét	t r é t
+trề	t r ề
+trễ	t r ễ
+trên	t r ê n
+trêu	t r ê u
+tri	t r i
+trì	t r ì
+trĩ	t r ĩ
+trí	t r í
+trị	t r ị
+trịa	t r ị a
+trial	t r i a l
+trích	t r í c h
+tried	t r i e d
+triền	t r i ề n
+triển	t r i ể n
+triết	t r i ế t
+triệt	t r i ệ t
+triều	t r i ề u
+triệu	t r i ệ u
+trifling	t r i f l i n g
+trinh	t r i n h
+trình	t r ì n h
+triu	t r i u
+trìu	t r ì u
+trĩu	t r ĩ u
+tro	t r o
+trò	t r ò
+trọ	t r ọ
+tróc	t r ó c
+trọc	t r ọ c
+trói	t r ó i
+trọi	t r ọ i
+tròn	t r ò n
+trọn	t r ọ n
+trong	t r o n g
+tròng	t r ò n g
+trọng	t r ọ n g
+trót	t r ó t
+trọt	t r ọ t
+trouble	t r o u b l e
+trô	t r ô
+trồ	t r ồ
+trổ	t r ổ
+trỗ	t r ỗ
+trố	t r ố
+trốc	t r ố c
+trôi	t r ô i
+trổi	t r ổ i
+trỗi	t r ỗ i
+trối	t r ố i
+trội	t r ộ i
+trộm	t r ộ m
+trôn	t r ô n
+trốn	t r ố n
+trộn	t r ộ n
+trông	t r ô n g
+trồng	t r ồ n g
+trống	t r ố n g
+trốt	t r ố t
+trơ	t r ơ
+trở	t r ở
+trợ	t r ợ
+trời	t r ờ i
+trơn	t r ơ n
+trợn	t r ợ n
+trợt	t r ợ t
+tru	t r u
+trù	t r ù
+trú	t r ú
+trụ	t r ụ
+truân	t r u â n
+truất	t r u ấ t
+trúc	t r ú c
+trục	t r ụ c
+true	t r u e
+trụi	t r ụ i
+trùm	t r ù m
+trung	t r u n g
+trùng	t r ù n g
+trũng	t r ũ n g
+trúng	t r ú n g
+truồng	t r u ồ n g
+truss	t r u s s
+trustworthy	t r u s t w o r t h y
+trút	t r ú t
+truy	t r u y
+trụy	t r ụ y
+truyền	t r u y ề n
+trừ	t r ừ
+trữ	t r ữ
+trưa	t r ư a
+trực	t r ự c
+trưng	t r ư n g
+trừng	t r ừ n g
+trứng	t r ứ n g
+trước	t r ư ớ c
+trườn	t r ư ờ n
+trương	t r ư ơ n g
+trường	t r ư ờ n g
+trưởng	t r ư ở n g
+trướng	t r ư ớ n g
+trượng	t r ư ợ n g
+trượt	t r ư ợ t
+try	t r y
+tu	t u
+tù	t ù
+tủ	t ủ
+tú	t ú
+tụ	t ụ
+tua	t u a
+tuân	t u â n
+tuần	t u ầ n
+tuấn	t u ấ n
+túc	t ú c
+tục	t ụ c
+tuế	t u ế
+tuệ	t u ệ
+tuếch	t u ế c h
+tủi	t ủ i
+túi	t ú i
+tùm	t ù m
+túm	t ú m
+tung	t u n g
+tùng	t ù n g
+túng	t ú n g
+tụng	t ụ n g
+tuổi	t u ổ i
+tuôn	t u ô n
+tuông	t u ô n g
+tuốt	t u ố t
+tuột	t u ộ t
+túp	t ú p
+turn	t u r n
+turned	t u r n e d
+turnkey	t u r n k e y
+turnkeys	t u r n k e y s
+turtle	t u r t l e
+tút	t ú t
+tuy	t u y
+tuỳ	t u ỳ
+tùy	t ù y
+tủy	t ủ y
+túy	t ú y
+tụy	t ụ y
+tuyên	t u y ê n
+tuyển	t u y ể n
+tuyến	t u y ế n
+tuyết	t u y ế t
+tuyệt	t u y ệ t
+tư	t ư
+từ	t ừ
+tử	t ử
+tứ	t ứ
+tự	t ự
+tựa	t ự a
+tức	t ứ c
+tưng	t ư n g
+từng	t ừ n g
+tước	t ư ớ c
+tược	t ư ợ c
+tươi	t ư ơ i
+tưởi	t ư ở i
+tưới	t ư ớ i
+tươm	t ư ơ m
+tương	t ư ơ n g
+tường	t ư ờ n g
+tưởng	t ư ở n g
+tướng	t ư ớ n g
+tượng	t ư ợ n g
+tửu	t ử u
+tựu	t ự u
+twelve	t w e l v e
+twenty	t w e n t y
+twice	t w i c e
+two	t w o
+ty	t y
+tỳ	t ỳ
+tỷ	t ỷ
+tỵ	t ỵ
+tying	t y i n g
+type	t y p e
+types	t y p e s
+typography	t y p o g r a p h y
+u	u
+ủ	ủ
+ùa	ù a
+úa	ú a
+uất	u ấ t
+úc	ú c
+udalric	u d a l r i c
+uế	u ế
+ugliness	u g l i n e s s
+ugly	u g l y
+ủi	ủ i
+ulm	u l m
+um	u m
+ùm	ù m
+ùn	ù n
+unable	u n a b l e
+unaffectedly	u n a f f e c t e d l y
+unbecoming	u n b e c o m i n g
+unbroken	u n b r o k e n
+unchecked	u n c h e c k e d
+uncompromising	u n c o m p r o m i s i n g
+unconcern	u n c o n c e r n
+unconscious	u n c o n s c i o u s
+unconvicted	u n c o n v i c t e d
+undeniable	u n d e n i a b l e
+under	u n d e r
+understood	u n d e r s t o o d
+undoubtedly	u n d o u b t e d l y
+unemployed	u n e m p l o y e d
+unequal	u n e q u a l
+unfit	u n f i t
+unfortunate	u n f o r t u n a t e
+ung	u n g
+ủng	ủ n g
+úng	ú n g
+unhappy	u n h a p p y
+unhealthy	u n h e a l t h y
+uniform	u n i f o r m
+uninteresting	u n i n t e r e s t i n g
+unit	u n i t
+unjust	u n j u s t
+unless	u n l e s s
+unmixed	u n m i x e d
+unoccupied	u n o c c u p i e d
+unpleasant	u n p l e a s a n t
+unprovided	u n p r o v i d e d
+unsafe	u n s a f e
+unsatisfactory	u n s a t i s f a c t o r y
+until	u n t i l
+untried	u n t r i e d
+unventilated	u n v e n t i l a t e d
+unwarrantable	u n w a r r a n t a b l e
+uốn	u ố n
+uổng	u ổ n g
+uống	u ố n g
+uột	u ộ t
+up	u p
+úp	ú p
+upon	u p o n
+uppermost	u p p e r m o s t
+upside	u p s i d e
+upwards	u p w a r d s
+us	u s
+usage	u s a g e
+use	u s e
+used	u s e d
+useful	u s e f u l
+using	u s i n g
+usual	u s u a l
+usually	u s u a l l y
+út	ú t
+utilitarian	u t i l i t a r i a n
+utility	u t i l i t y
+utilize	u t i l i z e
+utmost	u t m o s t
+uy	u y
+uỷ	u ỷ
+ủy	ủ y
+uyên	u y ê n
+uyển	u y ể n
+ư	ư
+ưa	ư a
+ức	ứ c
+ưng	ư n g
+ứng	ứ n g
+ước	ư ớ c
+ươm	ư ơ m
+ương	ư ơ n g
+ướp	ư ớ p
+ướt	ư ớ t
+ưu	ư u
+va	v a
+và	v à
+vả	v ả
+vã	v ã
+vá	v á
+vạ	v ạ
+vác	v á c
+vạc	v ạ c
+vacated	v a c a t e d
+vách	v á c h
+vạch	v ạ c h
+vai	v a i
+vài	v à i
+vải	v ả i
+vãi	v ã i
+vái	v á i
+vại	v ạ i
+van	v a n
+vàn	v à n
+vãn	v ã n
+ván	v á n
+vạn	v ạ n
+vang	v a n g
+vàng	v à n g
+vảng	v ả n g
+vãng	v ã n g
+váng	v á n g
+vành	v à n h
+vào	v à o
+váo	v á o
+variation	v a r i a t i o n
+varied	v a r i e d
+various	v a r i o u s
+varying	v a r y i n g
+vast	v a s t
+vát	v á t
+vạt	v ạ t
+vaulted	v a u l t e d
+vay	v a y
+vảy	v ả y
+váy	v á y
+vạy	v ạ y
+văn	v ă n
+vằn	v ằ n
+vắn	v ắ n
+vặn	v ặ n
+văng	v ă n g
+vẳng	v ẳ n g
+vắng	v ắ n g
+vắt	v ắ t
+vặt	v ặ t
+vân	v â n
+vần	v ầ n
+vẩn	v ẩ n
+vẫn	v ẫ n
+vấn	v ấ n
+vận	v ậ n
+vâng	v â n g
+vầng	v ầ n g
+vấp	v ấ p
+vất	v ấ t
+vật	v ậ t
+vây	v â y
+vầy	v ầ y
+vẫy	v ẫ y
+vấy	v ấ y
+vậy	v ậ y
+ve	v e
+vè	v è
+vẻ	v ẻ
+vẽ	v ẽ
+vé	v é
+ven	v e n
+vẹn	v ẹ n
+venice	v e n i c e
+vẹo	v ẹ o
+vertically	v e r t i c a l l y
+very	v e r y
+vested	v e s t e d
+vét	v é t
+vẹt	v ẹ t
+vê	v ê
+về	v ề
+vệ	v ệ
+vện	v ệ n
+vênh	v ê n h
+vết	v ế t
+vệt	v ệ t
+vi	v i
+vì	v ì
+vỉ	v ỉ
+vĩ	v ĩ
+ví	v í
+vị	v ị
+via	v i a
+vía	v í a
+vice	v i c e
+victuals	v i c t u a l s
+view	v i e w
+việc	v i ệ c
+viên	v i ê n
+viền	v i ề n
+viễn	v i ễ n
+viện	v i ệ n
+viếng	v i ế n g
+viết	v i ế t
+việt	v i ệ t
+vigorous	v i g o r o u s
+vileness	v i l e n e s s
+vilest	v i l e s t
+vim	v i m
+vinh	v i n h
+vĩnh	v ĩ n h
+vịnh	v ị n h
+violations	v i o l a t i o n s
+visit	v i s i t
+visitation	v i s i t a t i o n
+visited	v i s i t e d
+visiting	v i s i t i n g
+visitors	v i s i t o r s
+visits	v i s i t s
+vít	v í t
+vịt	v ị t
+víu	v í u
+viz	v i z
+vo	v o
+vò	v ò
+vỏ	v ỏ
+võ	v õ
+vó	v ó
+vọ	v ọ
+voan	v o a n
+vóc	v ó c
+voi	v o i
+volume	v o l u m e
+vòm	v ò m
+vỏn	v ỏ n
+vong	v o n g
+vòng	v ò n g
+vọng	v ọ n g
+vót	v ó t
+vọt	v ọ t
+vô	v ô
+vồ	v ồ
+vỗ	v ỗ
+vốc	v ố c
+vôi	v ô i
+vội	v ộ i
+vốn	v ố n
+vông	v ô n g
+vồng	v ồ n g
+vơ	v ơ
+vờ	v ờ
+vở	v ở
+vỡ	v ỡ
+vợ	v ợ
+vơi	v ơ i
+vời	v ờ i
+với	v ớ i
+vợi	v ợ i
+vớt	v ớ t
+vu	v u
+vũ	v ũ
+vú	v ú
+vụ	v ụ
+vua	v u a
+vùa	v ù a
+vui	v u i
+vùi	v ù i
+vulgar	v u l g a r
+vun	v u n
+vụn	v ụ n
+vung	v u n g
+vùng	v ù n g
+vũng	v ũ n g
+vụng	v ụ n g
+vuông	v u ô n g
+vuốt	v u ố t
+vút	v ú t
+vụt	v ụ t
+vừa	v ừ a
+vựa	v ự a
+vức	v ứ c
+vực	v ự c
+vững	v ữ n g
+vươn	v ư ơ n
+vườn	v ư ờ n
+vương	v ư ơ n g
+vướng	v ư ớ n g
+vượng	v ư ợ n g
+vượt	v ư ợ t
+vứt	v ứ t
+waiting	w a i t i n g
+wales	w a l e s
+wall	w a l l
+walls	w a l l s
+wantonness	w a n t o n n e s s
+war	w a r
+ward	w a r d
+warden	w a r d e n
+wards	w a r d s
+wardsman	w a r d s m a n
+warm	w a r m
+was	w a s
+wash	w a s h
+washed	w a s h e d
+washing	w a s h i n g
+watch	w a t c h
+water	w a t e r
+way	w a y
+ways	w a y s
+we	w e
+weapons	w e a p o n s
+weather	w e a t h e r
+week	w e e k
+weekly	w e e k l y
+welfare	w e l f a r e
+well	w e l l
+went	w e n t
+were	w e r e
+what	w h a t
+whatever	w h a t e v e r
+when	w h e n
+where	w h e r e
+whether	w h e t h e r
+which	w h i c h
+while	w h i l e
+whistling	w h i s t l i n g
+white	w h i t e
+whitecross	w h i t e c r o s s
+whites	w h i t e s
+who	w h o
+whole	w h o l e
+wholesome	w h o l e s o m e
+wholly	w h o l l y
+whom	w h o m
+whose	w h o s e
+why	w h y
+wide	w i d e
+widespread	w i d e s p r e a d
+wife	w i f e
+wilberforce	w i l b e r f o r c e
+will	w i l l
+william	w i l l i a m
+willoughby	w i l l o u g h b y
+window	w i n d o w
+wine	w i n e
+winked	w i n k e d
+winter	w i n t e r
+wiry	w i r y
+wished	w i s h e d
+with	w i t h
+within	w i t h i n
+without	w i t h o u t
+witnesses	w i t n e s s e s
+woman	w o m a n
+women	w o m e n
+wood	w o o d
+woodcutters	w o o d c u t t e r s
+wooden	w o o d e n
+words	w o r d s
+work	w o r k
+working	w o r k i n g
+works	w o r k s
+world	w o r l d
+worse	w o r s e
+worst	w o r s t
+worthy	w o r t h y
+would	w o u l d
+wretched	w r e t c h e d
+wretches	w r e t c h e s
+write	w r i t e
+writing	w r i t i n g
+writs	w r i t s
+written	w r i t t e n
+wrong	w r o n g
+wrote	w r o t e
+xa	x a
+xà	x à
+xả	x ả
+xã	x ã
+xá	x á
+xạ	x ạ
+xác	x á c
+xạc	x ạ c
+xách	x á c h
+xai	x a i
+xài	x à i
+xam	x a m
+xàm	x à m
+xám	x á m
+xan	x a n
+xanh	x a n h
+xao	x a o
+xào	x à o
+xảo	x ả o
+xáo	x á o
+xáp	x á p
+xát	x á t
+xay	x a y
+xảy	x ả y
+xăm	x ă m
+xăng	x ă n g
+xằng	x ằ n g
+xẳng	x ẳ n g
+xẵng	x ẵ n g
+xấc	x ấ c
+xâm	x â m
+xầm	x ầ m
+xẩm	x ẩ m
+xấp	x ấ p
+xâu	x â u
+xấu	x ấ u
+xây	x â y
+xe	x e
+xẻ	x ẻ
+xé	x é
+xéc	x é c
+xem	x e m
+xen	x e n
+xén	x é n
+xẻng	x ẻ n g
+xéo	x é o
+xẹo	x ẹ o
+xép	x é p
+xét	x é t
+xê	x ê
+xế	x ế
+xên	x ê n
+xếp	x ế p
+xết	x ế t
+xi	x i
+xì	x ì
+xỉ	x ỉ
+xí	x í
+xia	x i a
+xỉa	x ỉ a
+xích	x í c h
+xiếc	x i ế c
+xiểm	x i ể m
+xiên	x i ê n
+xiềng	x i ề n g
+xiết	x i ế t
+xiêu	x i ê u
+xim	x i m
+xin	x i n
+xỉn	x ỉ n
+xinh	x i n h
+xíp	x í p
+xít	x í t
+xỉu	x ỉ u
+xỏ	x ỏ
+xó	x ó
+xoa	x o a
+xõa	x õ a
+xóa	x ó a
+xoay	x o a y
+xoáy	x o á y
+xoắn	x o ắ n
+xóc	x ó c
+xòe	x ò e
+xóm	x ó m
+xong	x o n g
+xót	x ó t
+xô	x ô
+xổ	x ổ
+xôi	x ô i
+xôn	x ô n
+xộn	x ộ n
+xông	x ô n g
+xống	x ố n g
+xốt	x ố t
+xơ	x ơ
+xới	x ớ i
+xớm	x ớ m
+xu	x u
+xua	x u a
+xuân	x u â n
+xuẩn	x u ẩ n
+xuất	x u ấ t
+xúc	x ú c
+xuể	x u ể
+xui	x u i
+xúi	x ú i
+xụi	x ụ i
+xúm	x ú m
+xung	x u n g
+xuôi	x u ô i
+xuội	x u ộ i
+xuổng	x u ổ n g
+xuống	x u ố n g
+xúp	x ú p
+xuyên	x u y ê n
+xuyến	x u y ế n
+xử	x ử
+xứ	x ứ
+xưa	x ư a
+xức	x ứ c
+xưng	x ư n g
+xứng	x ứ n g
+xược	x ư ợ c
+xương	x ư ơ n g
+xướng	x ư ớ n g
+y	y
+ỷ	ỷ
+ý	ý
+yard	y a r d
+yards	y a r d s
+year	y e a r
+years	y e a r s
+yet	y e t
+yểm	y ể m
+yếm	y ế m
+yên	y ê n
+yến	y ế n
+yết	y ế t
+yêu	y ê u
+yểu	y ể u
+yếu	y ế u
+you	y o u
+young	y o u n g
+youths	y o u t h s
+zeiner	z e i n e r
